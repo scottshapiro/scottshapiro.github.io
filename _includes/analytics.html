@@ -31,6 +31,7 @@
 
 <!-- TODO: Add SDKs for Firebase products that you want to use
      https://firebase.google.com/docs/web/setup#config-web-app -->
+ <script src="https://www.gstatic.com/firebasejs/6.0.1/firebase-performance.js"></script>
 
 <script>
   // Your web app's Firebase configuration
@@ -45,4 +46,6 @@
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
+	
+  var perf = firebase.performance();
 </script>
