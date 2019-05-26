@@ -1,6 +1,5 @@
 ---
 title: Ledger Nano X Hardware Wallet Review
-date: 2017-06-24T08:27:36+00:00
 author: Scott Shapiro
 layout: post
 ---
