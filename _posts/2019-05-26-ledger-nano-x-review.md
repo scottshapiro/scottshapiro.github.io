@@ -1,4 +1,10 @@
-# Ledger nano x
+---
+title: Ledger Nano X Hardware Wallet Review
+date: 2017-06-24T08:27:36+00:00
+author: Scott Shapiro
+layout: post
+---
+
 After waiting for a couple months, I finally received and unboxed my Ledger Nano X. I’m a huge fan of hardware wallets and owning the keys to my coins. 
 
 The killer feature that was missing in the Keepkey, Trezors, and Ledger Nano S that I used was mobile support. Not an OTG (on the go) cable with Android-only support but Bluetooth! It needs to work with iOS too. What good is a wallet if it needs to be physically tethered or doesn’t work with all mobile devices?
@@ -15,6 +21,8 @@ One-handed operation to hit both buttons is tough. Two-button operation is a con
 ## Setup hardware
 Out of the box, the device powered in per instructions with low battery. Ledger’s FAQs state that devices ship with 25% batter. Battery probably contributes to the larger format and is a worthwhile trade off. So I plugged in a USB-C charger and could get setup while charging. 
 
+![Low battery after unboxing](/images/ledgerbattery.jpg)
+
 I chose the path of restoring with a 12 word nemonic I had memorized instead of creating a new one. Awesome that Ledger allows 12, 18, and 24 word seeds. Entry using two buttons was tedious and reminiscent of Nokia predictive text. But I got it right on the first try all from memory. Pin setup was also easy and allows a min. of 4 digits. 
 
 ## Ledger live sync took a few tries
@@ -24,8 +32,12 @@ Bluetooth is such a finicky protocol. My first attempt failed. I had to reboot t
 
 On my next try, it picked up the iPad pair request but still failed. On the third try, I managed to accept the pair request on Nano x before iPad. This felt like 2007 car Bluetooth versus today’s almost seamless sync. Crypto wallets will get there one day too. 
 
+![successful sync](/images/ledgerready.jpg)
+
 ## Installing bitcoin app
 Since I had created this nemonic for a bitcoin wallet many years ago, I setup bitcoin as my first app. I installed the app using Ledger Live, it synced my wallet, and I could see my transaction history. Awesome. 
+
+![bitcoin history](/images/ledgerbtc.png)
 
 Operations between LL and the Nano X are often laggy. LL will ask you to open the Bitcoin app on your Nano X and it’ll take 5 seconds to acknowledge and move forward. I’m now used to it but at first I could tell what was happening. 
 
