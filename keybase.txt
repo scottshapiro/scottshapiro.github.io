@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/scottshapiro
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.scottshapiro.com
+  * I am scottshapiro (https://keybase.io/scottshapiro) on keybase.
+  * I have a public key ASA3umz07oGYX4vxE-AEIi8u1kPOUV8UmA4Nb7K5M-LSMgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012037ba6cf4ee81985f8bf113e004222f2ed643ce515f14980e0d6fb2b933e2d2320a",
+      "host": "keybase.io",
+      "kid": "012037ba6cf4ee81985f8bf113e004222f2ed643ce515f14980e0d6fb2b933e2d2320a",
+      "uid": "185d83f97e60319345c066cbe91edd19",
+      "username": "scottshapiro"
+    },
+    "merkle_root": {
+      "ctime": 1517276220,
+      "hash": "ff8bc8e37eee7a5eaaa6c777887b1f37003305c1236fd125bdf8fec752c9417c7d6d51525c280ddc18bdd3e867b303f3854b3da3641b49fc256f50ab7b68961d",
+      "hash_meta": "c2371b4e3ab7a7735353fcca70a49f61f935ee8d6e8f56630754505e100dff0e",
+      "seqno": 2002780
+    },
+    "service": {
+      "hostname": "www.scottshapiro.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.37"
+  },
+  "ctime": 1517276239,
+  "expire_in": 504576000,
+  "prev": "b3ddece330cc00e6a657cdf788c075b29ab841685dca774473a4336f4a057d37",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgN7ps9O6BmF+L8RPgBCIvLtZDzlFfFJgODW+yuTPi0jIKp3BheWxvYWTFA1B7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMzdiYTZjZjRlZTgxOTg1ZjhiZjExM2UwMDQyMjJmMmVkNjQzY2U1MTVmMTQ5ODBlMGQ2ZmIyYjkzM2UyZDIzMjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzdiYTZjZjRlZTgxOTg1ZjhiZjExM2UwMDQyMjJmMmVkNjQzY2U1MTVmMTQ5ODBlMGQ2ZmIyYjkzM2UyZDIzMjBhIiwidWlkIjoiMTg1ZDgzZjk3ZTYwMzE5MzQ1YzA2NmNiZTkxZWRkMTkiLCJ1c2VybmFtZSI6InNjb3R0c2hhcGlybyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxNzI3NjIyMCwiaGFzaCI6ImZmOGJjOGUzN2VlZTdhNWVhYWE2Yzc3Nzg4N2IxZjM3MDAzMzA1YzEyMzZmZDEyNWJkZjhmZWM3NTJjOTQxN2M3ZDZkNTE1MjVjMjgwZGRjMThiZGQzZTg2N2IzMDNmMzg1NGIzZGEzNjQxYjQ5ZmMyNTZmNTBhYjdiNjg5NjFkIiwiaGFzaF9tZXRhIjoiYzIzNzFiNGUzYWI3YTc3MzUzNTNmY2NhNzBhNDlmNjFmOTM1ZWU4ZDZlOGY1NjYzMDc1NDUwNWUxMDBkZmYwZSIsInNlcW5vIjoyMDAyNzgwfSwic2VydmljZSI6eyJob3N0bmFtZSI6Ind3dy5zY290dHNoYXBpcm8uY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzcifSwiY3RpbWUiOjE1MTcyNzYyMzksImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiYjNkZGVjZTMzMGNjMDBlNmE2NTdjZGY3ODhjMDc1YjI5YWI4NDE2ODVkY2E3NzQ0NzNhNDMzNmY0YTA1N2QzNyIsInNlcW5vIjo5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQIK7yXXYrL3dluEUsAKY4ogBuwWAhhKwy3CppFkVRsNOWINL1RXrOp0AxqftXPqT04r3LJDfM2LRtxMrqcSylwyoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBgcMPG2OL6TMCOEQWbTZzv+bT5ctuhgBOAGSne3ncg/qN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/scottshapiro
+
+==================================================================

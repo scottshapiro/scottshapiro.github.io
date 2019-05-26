@@ -33,7 +33,8 @@ footer-links:
   twitter: scottshapiro
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  bitcoin: www.scottshapiro.com/btc
+  lightning: 0206c7b60457550f512d80ecdd9fb6eb798ce7e91bf6ec08ad9c53d72e94ef620d 
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
