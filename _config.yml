@@ -5,7 +5,7 @@ meta_description: "Scott Shapiro's personal blog"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl:
-# production_url: www.scottshapiro.com
+production_url: https://scottshapiro.com/
 disqus:
 mailchimp_url: '//scottshapiro.us16.list-manage.com/subscribe/post?u=5c7e9216b6ff26ac8fbd9c161&amp;id=b2ceab4033'
 
