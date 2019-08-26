@@ -6,6 +6,7 @@ author: Scott Shapiro
 layout: post
 guid: http://www.scottshapiro.com/?p=130
 permalink: /how-i-got-started-building-a-messenger-bot-with-alexa/
+tags: [ Bots, Coding  ]
 ampforwp_custom_content_editor:
   - ""
 ampforwp_custom_content_editor_checkbox:
@@ -18,7 +19,7 @@ dsq_thread_id:
   - "5873749287"
 instant_articles_submission_id:
   - "1911316682423672"
-    
+
 dpsp_networks_shares:
   - 'a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:19;}'
 dpsp_networks_shares_total:
@@ -59,7 +60,7 @@ The **[Enphase solar system&#8217;s API](https://developer.enphase.com/docs)** i
 
 Setting up the **[Alexa skill](https://developer.amazon.com/edw/home.html#/)** was easy, just copy/pasting node.js code and linking it to my Lambda instance. Most of this is around recognizing and mapping semantics. I had to redo the Lambda setup a few times as it would only work from US-East and not other AWS datacenter locations.
 
-<img src="/wp-content/uploads/2017/06/Screen-Shot-2017-05-28-at-5.05.19-PM-300x154.png" alt="" width="300" height="154" class="alignnone size-medium wp-image-135" /> 
+<img src="/wp-content/uploads/2017/06/Screen-Shot-2017-05-28-at-5.05.19-PM-300x154.png" alt="" width="300" height="154" class="alignnone size-medium wp-image-135" />
 
 ## Next step: Push notifications
 

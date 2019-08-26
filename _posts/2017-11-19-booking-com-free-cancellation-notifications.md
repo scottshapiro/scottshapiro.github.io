@@ -6,6 +6,7 @@ author: Scott Shapiro
 layout: post
 guid: http://www.scottshapiro.com/?p=361
 permalink: /booking-com-free-cancellation-notifications/
+tags: [ Coding ]
 dpsp_networks_shares:
   - 'a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:94;}'
 dpsp_networks_shares_total:
@@ -24,7 +25,7 @@ But it&#8217;s hard to keep track of all the reservations I make. Specifically, 
 I searched around for apps that might scan your gmail or connect to Booking.com and notify you. But I couldn&#8217;t find anything. This is just like when [I struggled to get notified if my solar power system was down]({{ site.baseurl }}{% post_url 2017-05-27-im-building-a-bot %}).
 So I built a tiny app that solves this problem.
 
-<img src="/wp-content/uploads/2017/11/Screen-Shot-2017-11-19-at-4.57.55-PM-1024x505.png" alt="" width="1024" height="505" /> 
+<img src="/wp-content/uploads/2017/11/Screen-Shot-2017-11-19-at-4.57.55-PM-1024x505.png" alt="" width="1024" height="505" />
 
 I used Google Scripts, which is just like JavaScript. It has a bunch of features that work directly with gmail and Google Calendar. Two apps that I use all the time. So long as I could scan my email for incoming Booking.com reservations and then create a notification in my calendar, I&#8217;d be set.
 

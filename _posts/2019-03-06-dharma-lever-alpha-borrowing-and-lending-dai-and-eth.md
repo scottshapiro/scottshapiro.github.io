@@ -6,6 +6,7 @@ author: Scott Shapiro
 layout: post
 guid: http://www.scottshapiro.com/?p=412
 permalink: /dharma-lever-alpha-borrowing-and-lending-dai-and-eth/
+tags: [ Crypto, Finance ]
 dpsp_networks_shares:
   - 'a:2:{s:8:"facebook";i:0;s:9:"pinterest";i:0;}'
 dpsp_networks_shares_total:
