@@ -6,6 +6,7 @@ author: Scott Shapiro
 layout: post
 guid: http://www.scottshapiro.com/?p=311
 permalink: /trezor-vs-keepkey-cryptocurrency-wallets-review/
+tags: [ Crypto, Wallets ]
 dpsp_networks_shares:
   - 'a:2:{s:8:"facebook";i:27;s:9:"pinterest";i:0;}'
 dpsp_networks_shares_total:

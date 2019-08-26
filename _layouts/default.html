@@ -1,54 +1,88 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+<html lang="en">
 
-    {% include meta.html %}
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+    {% if site.plugins_dir contains 'jekyll-seo-tag' %}
+        {% include head-seo.html %}
+    {% else %}
+        <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.name | escape }}{% endif %}</title>
+        <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+        <link rel="canonical" href="{{ page.url | replace:'index.html', '' | absolute_url }}">
+    {% endif %}
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <!-- Site Favicon -->
+    <link rel="shortcut icon" href="{{ site.url }}/{{ site.baseurl }}{{ site.favicon }}" type="image/png" />
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-    {% seo %}	  
-  </head>
+    <!-- Font Embed Code -->
+    <link href="https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i" rel="stylesheet" />
 
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+    <!-- CSS Styles -->
+    <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet">
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
+</head>
 
-          <nav>
-<!---            <a href="{{ site.baseurl }}/">Blog</a> 
--->
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
-      </div>
-    </div>
+{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
+<body class="{{ layout }}">
+    <div id="page" class="site">
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-          {% include mailchimp.html %}
-        </footer>
-      </div>
-    </div>
+        {% if page.url == "/" %}
 
+        <div class="hero-wrap">
+            {% if site.cover_image %}
+            <div class="hero-wrap-bg" style="background-image: url({{ site.baseurl }}/assets/images/{{ site.cover_image }})"></div>
+            {% endif %}
+            {% include header.html %}
+            <section class="hero outer fadeInDown delay_075s">
+                <div class="inner">
+                    {% include author.html %}
+                </div><!-- .inner -->
+            </section><!-- .hero -->
+        </div><!-- .hero-wrap -->
+
+        {% else %}
+        {% include header.html %}
+        {% endif %}
+
+        {{ content }}
+
+        {% if paginator.total_posts > site.paginate %}
+        {% if page.class == 'tag-template' %}
+        {% include tag-pagination.html %}
+        {% endif %}
+        {% endif %}
+
+        {% if site.mailchimp_url and page.class == 'tag-template' %}
+        {% include newsletter-box.html %}
+        {% endif %}
+
+        <footer id="colophon" class="site-footer outer">
+            <div class="site-footer-inside">
+                {% include social-links.html %}
+                <p class="site-info">
+                    <a href="#">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }} 
+                </p>
+                <p class="back-to-top">
+                    <a id="top-button" class="top-button" href="#page">
+                        <span class="icon-arrow-up" aria-hidden="true"></span>
+                        <span class="screen-reader-text">Back to top</span>
+                    </a>
+                </p>
+            </div><!-- .site-footer-inside -->
+        </footer><!-- .site-footer -->
+    </div><!-- .site -->
+    <div id="site-overlay" class="site-overlay"></div>
+    {% include sidebar.html %}
     {% include analytics.html %}
-  </body>
+    <!-- Javascript Assets -->
+    <script src="{{ site.baseurl }}/assets/js/jquery-3.3.1.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/plugins.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/custom.js"></script>
+
+</body>
+
 </html>

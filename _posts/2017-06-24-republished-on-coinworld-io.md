@@ -6,6 +6,7 @@ author: Scott Shapiro
 layout: post
 guid: http://www.scottshapiro.com/republished-on-coinworld-io/
 permalink: /republished-on-coinworld-io/
+tags: [ Crypto ]
 instant_articles_submission_id:
   - "124047014861757"
 dpsp_networks_shares:
