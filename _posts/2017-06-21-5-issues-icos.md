@@ -7,6 +7,7 @@ excerpt: 'Initial Coin Offerings are exciting, but there are some huge fundament
 layout: post
 guid: http://www.scottshapiro.com/?p=200
 permalink: /5-issues-icos/
+tags: [ Crypto, Tokens  ]
 dpsp_networks_shares:
   - 'a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:141;}'
 dpsp_networks_shares_total:

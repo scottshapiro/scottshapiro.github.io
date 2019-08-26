@@ -6,6 +6,7 @@ author: Scott Shapiro
 layout: post
 guid: http://www.scottshapiro.com/?p=138
 permalink: /how-i-built-solar-messenger-bot-v1/
+tags: [ Bots, Coding  ]
 ampforwp_custom_content_editor:
   - ""
 ampforwp_custom_content_editor_checkbox:
@@ -59,7 +60,7 @@ So now I had some efficiency. How would I schedule notifications? How do I cache
 ## Caching solar power data in Redis
 
 I scheduled a job to pull from the solar system API every 10 minutes and store in redis. That way it would avoid hitting the Enphase solar power API too often in case this bot becomes super popular or gets DOS&#8217;d (yeah right).  
-<img src="/wp-content/uploads/2017/05/Screen-Shot-2017-05-28-at-5.31.24-PM.png" class="alignnone size-medium wp-image-144"/> 
+<img src="/wp-content/uploads/2017/05/Screen-Shot-2017-05-28-at-5.31.24-PM.png" class="alignnone size-medium wp-image-144"/>
 
 The essence is pulling from the solar power API and storing those values in Redis
 
@@ -75,7 +76,7 @@ The essence is pulling from the solar power API and storing those values in Redi
     solar = json.loads(response.read())
     r.hset(user_id,'energy_today',solar['energy_today'])
     r.hset(user_id,'current_power',solar['current_power'])
-    
+
 
 ## Enter scheduler
 
@@ -92,10 +93,10 @@ Everyday at 11am, the Heroku worker hgets the most recent production data and pa
     + str(r.hget(user_id,'current_power'))
     + "W this moment."
     return message
-    
+
 
 This is what my conversation looks like. One message for each day, each with a push notification. It&#8217;s more of a monologue actually, but that will change.  
-<img src="/wp-content/uploads/2017/05/img_8766.png" class="alignnone size-large wp-image-139" sizes="(max-width: 442px) 100vw, 642px" /> 
+<img src="/wp-content/uploads/2017/05/img_8766.png" class="alignnone size-large wp-image-139" sizes="(max-width: 442px) 100vw, 642px" />
 
 # Now I know my power
 

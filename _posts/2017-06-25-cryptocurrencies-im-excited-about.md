@@ -6,6 +6,7 @@ author: Scott Shapiro
 layout: post
 guid: http://www.scottshapiro.com/?p=241
 permalink: /cryptocurrencies-im-excited-about/
+tags: [ Crypto, Bitcoin, Ethereum  ]
 dpsp_networks_shares:
   - 'a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:90;}'
 dpsp_networks_shares_total:
@@ -52,7 +53,7 @@ According to coinmarketcap.com, there are 785 cryptocurrencies. Their collective
   <p lang="en" dir="ltr">
     Total Market Capitalization has now crossed $100 Billion USD, doubling in a less than a month!<a href="https://t.co/yUOsLggeFJ">https://t.co/yUOsLggeFJ</a> <a href="https://t.co/xB4QI0Xvns">pic.twitter.com/xB4QI0Xvns</a>
   </p>
-  
+
   <p>
     &mdash; CoinMarketCap (@CoinMKTCap) <a href="https://twitter.com/CoinMKTCap/status/872115714274054145">June 6, 2017</a>
   </p>

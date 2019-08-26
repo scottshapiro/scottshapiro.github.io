@@ -6,6 +6,7 @@ author: Scott Shapiro
 layout: post
 guid: http://www.scottshapiro.com/?p=288
 permalink: /prism-shapeshift-first-impressions/
+tags: [ Crypto, Ethereum ]
 dpsp_networks_shares:
   - 'a:2:{s:8:"facebook";i:20;s:9:"pinterest";i:1;}'
 dpsp_networks_shares_total:
@@ -22,7 +23,7 @@ Ever since I heard of [Prism by Shapeshift](http://prism.exchange) I&#8217;ve be
 
 The value proposition of Prism is simple: simple cryptocurrency diversification. Prism lets you create a synthetic portfolio that&#8217;s backed by Ethereum without having to buy/sell each coin one at a time.
 
-<img src="/wp-content/uploads/2017/08/Screen-Shot-2017-08-17-at-6.31.39-AM-1024x330.png" alt="" width="1024" height="330"  /> 
+<img src="/wp-content/uploads/2017/08/Screen-Shot-2017-08-17-at-6.31.39-AM-1024x330.png" alt="" width="1024" height="330"  />
 
 Prism offers couple dozen coins. All the majors (LTC, BTC, ETH) in addition to alts like Steem and&#8230; Potcoin?
 
@@ -34,7 +35,7 @@ An awesome feature would be some sort of details on the properties of each coin 
 
 Fees are high, at 2.5% + 0.05 ETH (edit: not 5%) for simply constructing a portfolio. In my case, that&#8217;s effectively $15 US for every $300 invested (as of August 16). Or 0.05 ETH for the 1 ETH I invested (edited for accuracy).
 
-<img src="/newblog/wp-content/uploads/2017/08/Screen-Shot-2017-08-17-at-6.36.56-AM-1024x580.png" alt="" width="1024" height="580"  /> 
+<img src="/newblog/wp-content/uploads/2017/08/Screen-Shot-2017-08-17-at-6.36.56-AM-1024x580.png" alt="" width="1024" height="580"  />
 
 ## Funding a Prism
 
@@ -44,7 +45,7 @@ I&#8217;m a [big fan of ENS (Ethereum Name Service)]({{ site.baseurl }}{% post_u
 
 Prism gives you 10 minutes to initiate a transaction. It took me a few minutes to get my ETH transfer going. After a few failed attempts withdrawing from exchanges, I used MEW to fund. Prism quickly acknowledged that transfer and began its process of creating my Prism portfolio.
 
-<img src="/wp-content/uploads/2017/08/Screen-Shot-2017-08-17-at-6.45.57-AM-1024x618.png" alt="" width="1024" height="618"  /> 
+<img src="/wp-content/uploads/2017/08/Screen-Shot-2017-08-17-at-6.45.57-AM-1024x618.png" alt="" width="1024" height="618"  />
 
 With the volatility in both the funding currency ETH and the dozens of currencies that one can construct a Prism portfolio wtih, it&#8217;s amazing that Prism is able to float that risk for 10 minutes. You never know what will happen with coin values even within a minute.
 
@@ -52,7 +53,7 @@ With the volatility in both the funding currency ETH and the dozens of currencie
 
 My prism is live on the ETH blockchain! For those who have access to Prism, [you can see the details here](https://prism.exchange/prism/0x8480A10a1dbFc6ab0A988D9513d596A21175A1CB). This does not appear to be visible to the public.
 
-<img src="/wp-content/uploads/2017/08/Screen-Shot-2017-08-17-at-6.52.05-AM-1024x763.png" alt="" width="1024" height="763" /> 
+<img src="/wp-content/uploads/2017/08/Screen-Shot-2017-08-17-at-6.52.05-AM-1024x763.png" alt="" width="1024" height="763" />
 
 I called my prism MoneroZ because it&#8217;s 50/50 Monero and Zcash. These aren&#8217;t supported by my hardware wallet and are more difficult than others to store and utilize, so I figured this is where Prism could offer me some value. BTC and LTC on the other hand are very simple to use.
 
