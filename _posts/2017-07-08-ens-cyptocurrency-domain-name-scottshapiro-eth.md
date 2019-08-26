@@ -6,6 +6,7 @@ author: Scott Shapiro
 excerpt: "I recently acquired scottshapiro.eth as my cryptocurrency domain name. Here's how I used Ethereum Name Service (ENS) to buy and set it up."
 layout: post
 guid: http://www.scottshapiro.com/?p=255
+tags: [ Crypto, Ethereum ]
 permalink: /ens-cyptocurrency-domain-name-scottshapiro-eth/
 dpsp_networks_shares:
   - 'a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:1183;}'
@@ -36,7 +37,7 @@ To place a bid for a domain on ENS, I had to initiate a smart contract. Metamask
 
 So all I had to do was enter a price and click “submit bid” in my web browser. Then Metamask popped up and asked me to confirm this. Instead of going to paypal or entering my credit card number, my built-in Ethereum wallet would send payment for my bid. I clicked “accept” and within seconds, the Ethereum Network received and started confirming my bid. As of today, [this has been independently confirmed by 63,814 independent computers in the network](https://etherscan.io/tx/0x03c22347dc72836cfd412ce6e921c516e0e23fc41bf907b655cbecca0fda5c19)!
 
-<img src="/wp-content/uploads/2017/07/Screen-Shot-2017-07-08-at-3.22.26-PM-1024x372.png" class="alignnone size-large wp-image-258" width="1024" height="372" /> 
+<img src="/wp-content/uploads/2017/07/Screen-Shot-2017-07-08-at-3.22.26-PM-1024x372.png" class="alignnone size-large wp-image-258" width="1024" height="372" />
 
 I ended up winning the auction, uncontested. There are a number of Scott Shapiros out there who have expressed interest in [scottshapiro.com](http://scottshapiro.com/) but scottshapiro.eth is a little more obscure.
 
@@ -52,7 +53,7 @@ Next I had to tell the Public Resolver where I wanted scottshapiro.eth to point 
 
 I then [sent the author of the tutorial a small donation](https://etherchain.org/tx/0x817016be23054ed5d8e9ba70ab92519e351210cd6f98edf1d4384bfb21928ef5), and encoded a message in hexadecimal.
 
-<img src="/wp-content/uploads/2017/07/Screen-Shot-2017-07-08-at-3.29.27-PM-1024x88.png" class="alignnone wp-image-259 size-large" width="1024" height="88" alt=""  /> 
+<img src="/wp-content/uploads/2017/07/Screen-Shot-2017-07-08-at-3.29.27-PM-1024x88.png" class="alignnone wp-image-259 size-large" width="1024" height="88" alt=""  />
 
 ## ENS is clunky but provides a view into the future
 

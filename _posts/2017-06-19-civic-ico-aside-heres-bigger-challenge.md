@@ -7,6 +7,7 @@ excerpt: Civic is one of the most interesting projects in Cryptocurrency today, 
 layout: post
 guid: http://www.scottshapiro.com/?p=220
 permalink: /civic-ico-aside-heres-bigger-challenge/
+tags: [ Crypto, Tokens  ]
 dpsp_networks_shares:
   - 'a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:1;}'
 dpsp_networks_shares_total:

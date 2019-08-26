@@ -7,6 +7,7 @@ excerpt: 'Bitcoin hit $3,000 earlier this week. Then it dropped by 30%. In honor
 layout: post
 guid: http://www.scottshapiro.com/?p=182
 permalink: /my-first-year-in-bitcoin-2013/
+tags: [ Crypto, Bitcoin  ]
 dsq_thread_id:
   - "5901900254"
 instant_articles_force_submit:
@@ -23,6 +24,8 @@ image: /newblog/wp-content/uploads/2017/06/10680032615_0717257f1d_b.jpg
 categories:
   - Bitcoin
   - Cryptocurrency
+
+featured: false
 ---
 _Bitcoin hit $3,000 earlier this week. Then it dropped by 30%. In honor of that arbitrary high watermark and even higher volatility, I wanted to share the first year of my journey into cryptocurrency._
 
@@ -30,7 +33,7 @@ _Bitcoin hit $3,000 earlier this week. Then it dropped by 30%. In honor of that 
 
 On a cold winter morning in Menlo Park, a colleague was talking about blockchain this and crypto that. It didn&#8217;t make any sense. Miners and block rewards? What? But I remembered seeing a couple headlines on YCombinator&#8217;s Hacker News and figured this was something to learn about. So I went on Coinbase, which had just recently launched. I paid $21.65 for 1 bitcoin. Just because. Of course only a few years earlier the price of a bitcoin was infinitesimally small on the order of fractional pennies.
 
-<img src="/wp-content/uploads/2017/06/image-6.png" alt="" class="alignnone size-medium wp-image-183"  sizes="(max-width: 904px) 100vw, 904px" /> 
+<img src="/wp-content/uploads/2017/06/image-6.png" alt="" class="alignnone size-medium wp-image-183"  sizes="(max-width: 904px) 100vw, 904px" />
 
 I should have bought more, but even one felt like a crazy idea. It was unclear how or why this existed. I hadn&#8217;t thought through how impactful it could be on the future.
 
@@ -44,7 +47,7 @@ I also messed around with some tools like Blockchain.info and read the Satoshi w
 
 I even bought a USB bitcoin miner off Amazon for $14.49 and paid $4.99 for shipping since it wasn&#8217;t part of Prime.
 
-<img src="/wp-content/uploads/2017/06/Screen-Shot-2017-06-11-at-8.15.06-PM-1024x482.png" alt="" width="1024" height="482" /> 
+<img src="/wp-content/uploads/2017/06/Screen-Shot-2017-06-11-at-8.15.06-PM-1024x482.png" alt="" width="1024" height="482" />
 
 [My solar power, when it behaves]({{ site.baseurl }}{% post_url 2017-06-06-how-i-got-started-building-a-messenger-bot-with-alexa %}), overproduces. So this was a way to make use of that energy that PG&E gives me pennies on the dollar for. I mined 0.02 bitcoin before the difficulty got so extreme due to competition from huge industrial miners. Within a couple months, I gave up. But at the time, the amount I mined covered the cost of my USB miner. Score.
 
@@ -52,15 +55,15 @@ I even bought a USB bitcoin miner off Amazon for $14.49 and paid $4.99 for shipp
 
 I did a bit of trading on vircurex and Mt. Gox, two of the earliest exchanges. Vircurex was connected to my mining pool. So it was easy to transfer my measly 0.02 mined bitcoin into it, in addition to the Namecoin tokens that I also mined. I traded these for two Litecoin ($80 USD today) and forgot about the whole thing since other, better exchanges opened up. Luckily I didn&#8217;t have too much on [Vircurex since it&#8217;s all frozen now](http://www.coindesk.com/exchange-vircurex-freezes-withdrawals-claims-lack-reserves/).
 
-<img src="/wp-content/uploads/2017/07/Screen-Shot-2017-06-17-at-10.16.43-AM-1-1024x342.png" alt="" width="1024" height="342" /> 
+<img src="/wp-content/uploads/2017/07/Screen-Shot-2017-06-17-at-10.16.43-AM-1-1024x342.png" alt="" width="1024" height="342" />
 
 Then came Mt Gox, which has been the grandest of all bitcoin scams to date. MTGOX stands for Magic The Gathering Online Exchange. Magic being the old school Dungeons and Dragons style card game. Mt Gox entered bitcoin trading very early, in 2010. By 2013 it was the dominant exchange for Bitcoin and [within a year it was game over](https://en.wikipedia.org/wiki/Mt._Gox#Processor_of_most_of_world.27s_bitcoin_trades.3B_issues_.282013.29) a la Madoff. Insolvent to the extent of 7% of all bitcoin, which would be worth $3 billion today. It&#8217;s unclear where those coins went or how they&#8217;ll get distributed to creditors, who I implicitly became.
 
 Since the company was domiciled in Japan, bankruptcy proceedings have started there. In 2014, I received the following via international air mail. Considering the complexity of an international bankruptcy, it&#8217;s been handled pretty well.
 
-<img src="/wp-content/uploads/2017/06/img_9172-1-768x1024.jpg" alt="" width="600" height="800" class="alignnone size-large wp-image-207"/> 
+<img src="/wp-content/uploads/2017/06/img_9172-1-768x1024.jpg" alt="" width="600" height="800" class="alignnone size-large wp-image-207"/>
 
-<img src="/wp-content/uploads/2017/06/img_0256-1-1024x768.jpg" alt="" width="800" height="600" class="alignnone size-large wp-image-206" /> 
+<img src="/wp-content/uploads/2017/06/img_0256-1-1024x768.jpg" alt="" width="800" height="600" class="alignnone size-large wp-image-206" />
 
 ## If it&#8217;s not your keys, it&#8217;s not your bitcoin
 

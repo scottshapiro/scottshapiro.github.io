@@ -4,6 +4,7 @@ title: Why I chose Messenger
 date: 2017-06-02T06:09:51+00:00
 author: Scott Shapiro
 layout: post
+tags: [ Bots, Coding  ]
 guid: http://www.scottshapiro.com/newblog/?p=72
 permalink: /why-i-chose-messenger-to-build-a-bot/
 ampforwp_custom_content_editor:
@@ -36,7 +37,7 @@ _I recently built a Messenger Bot. This is the second in a series describing how
 
 I decided on a Messenger bot mostly because I have a head start on familiarity with the Facebook platform (disclosure: yes I work at Facebook but don&#8217;t touch anything remotely related to messaging).
 
-  1. It&#8217;s **integrated** with products like [Facebook Analytics](https://analytics.facebook.com/blog/bots-for-messenger-adding-analytics-and-fbstart-program/) and [Facebook ads](https://www.facebook.com/business/a/messenger-news-feed-ads).</p> 
+  1. It&#8217;s **integrated** with products like [Facebook Analytics](https://analytics.facebook.com/blog/bots-for-messenger-adding-analytics-and-fbstart-program/) and [Facebook ads](https://www.facebook.com/business/a/messenger-news-feed-ads).</p>
   2. Messenger works **cross-platform** (iOS, Android, web). I use the Messenger app all the time. Like it&#8217;s probably my #1 app by usage. It&#8217;s my preferred method of communication. I also have friends that work on Messenger, so there&#8217;s a personal connection.
 
   3. Messenger is easy to integrate with <wit.ai> for **NLP (Natural Language Processing)**. NLP is a short way of saying that my bot can understand that &#8220;what is my power production this month?&#8221; and &#8220;how much power did I produce this month&#8221; are the same question. NLP is one of the hotter areas of artificial intelligence these days.

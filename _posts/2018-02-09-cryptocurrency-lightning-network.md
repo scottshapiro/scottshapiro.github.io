@@ -6,6 +6,7 @@ author: Scott Shapiro
 layout: post
 guid: http://www.scottshapiro.com/?p=380
 permalink: /cryptocurrency-lightning-network/
+tags: [ Crypto, Bitcoin, Lightning Network ]
 dpsp_networks_shares:
   - 'a:2:{s:8:"facebook";i:41;s:9:"pinterest";i:0;}'
 dpsp_networks_shares_total:
@@ -14,6 +15,8 @@ dpsp_networks_shares_last_updated:
   - "1553829603"
 categories:
   - Cryptocurrency
+
+featured: true
 ---
 I&#8217;ve spent the last three weeks on parental leave. It&#8217;s been awesome getting to know [our daughter Ava](http://www.scottandsue.com/welcome-ava-julia/) better. But in between the hundreds of diaper changes, bottle feeds, and [5 S&#8217;s](https://www.happiestbaby.com/blogs/blog/the-5-s-s-for-soothing-babies), I managed to explore some cryptocurrency projects. Often early in the morning or late at night when mom and baby are sleeping.
 
@@ -69,8 +72,10 @@ Unfortunately I wasn&#8217;t able to generate Segwit addresses.
 
 I&#8217;ve been running an LTC node at pi.scottshapiro.com for several weeks (on and off). Lately it&#8217;s been off so that my Monero node can sync. I&#8217;m using the same Raspberry Pi with an USB SSD drive. But Monero syncing has taken forever, so I&#8217;ve shutdown the LTC note until that finishes. Only 25k blocks left. Stay tuned!
 
-`2018-02-09 17:24:13.169 [P2P1]  INFO    global  src/cryptonote_protocol/cryptonote_protocol_handler.inl:1154    [51.175.180.162:18080 OUT]  Synced 1480879/1505955<br />
-2018-02-09 17:24:19.161 [P2P0]  INFO    global  src/cryptonote_protocol/cryptonote_protocol_handler.inl:305     [2.138.234.154:49762 INC] Sync data returned a new top block candidate: 1480879 -> 1505957 [Your node is 25078 blocks (34 days) behind]`
+```
+2018-02-09 17:24:13.169 [P2P1]  INFO    global  src/cryptonote_protocol/cryptonote_protocol_handler.inl:1154    [51.175.180.162:18080 OUT]  Synced 1480879/1505955<br />
+2018-02-09 17:24:19.161 [P2P0]  INFO    global  src/cryptonote_protocol/cryptonote_protocol_handler.inl:305     [2.138.234.154:49762 INC] Sync data returned a new top block candidate: 1480879 -> 1505957 [Your node is 25078 blocks (34 days) behind]
+```
 
 ### 4. Lightning!
 
@@ -82,13 +87,13 @@ I found [a couple very](https://medium.com/@dougvk/run-your-own-mainnet-lightnin
 
 Connect with me as a peer on Lightning mainnet (no need to waste time on testnet, though be careful as you may lose funds)! `0206c7b60457550f512d80ecdd9fb6eb798ce7e91bf6ec08ad9c53d72e94ef620d@54.183.119.192:9735`
 
-<img src="/wp-content/uploads/2018/02/Screen-Shot-2018-02-09-at-8.22.09-AM-1024x149.png" alt="" width="1024" height="149" class="alignnone size-large wp-image-385" srcset="/wp-content/uploads/2018/02/Screen-Shot-2018-02-09-at-8.22.09-AM-1024x149.png 1024w, /wp-content/uploads/2018/02/Screen-Shot-2018-02-09-at-8.22.09-AM-300x44.png 300w, /wp-content/uploads/2018/02/Screen-Shot-2018-02-09-at-8.22.09-AM-768x111.png 768w, /wp-content/uploads/2018/02/Screen-Shot-2018-02-09-at-8.22.09-AM.png 1186w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
+<img src="/wp-content/uploads/2018/02/Screen-Shot-2018-02-09-at-8.22.09-AM-1024x149.png" alt="" width="1024" height="149" class="alignnone size-large wp-image-385" srcset="/wp-content/uploads/2018/02/Screen-Shot-2018-02-09-at-8.22.09-AM-1024x149.png 1024w, /wp-content/uploads/2018/02/Screen-Shot-2018-02-09-at-8.22.09-AM-300x44.png 300w, /wp-content/uploads/2018/02/Screen-Shot-2018-02-09-at-8.22.09-AM-768x111.png 768w, /wp-content/uploads/2018/02/Screen-Shot-2018-02-09-at-8.22.09-AM.png 1186w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 ### 5. Cryptocurrency Identity: Keybase and Blockstack
 
 I&#8217;m fascinated with identity and have spent a lot of my career focused on this (see readable names above!). Keybase and Blockstack are two startups building decentralized identity platforms, and I went through the motions with each. Connect with me on Keybase: <https://keybase.io/scottshapiro> and Blockstack: <https://explorer.blockstack.org/name/scottshapiro.id>.
 
-<img src="/wp-content/uploads/2018/02/Screen-Shot-2018-02-09-at-9.32.21-AM-1024x598.png" alt="" width="1024" height="598" class="alignnone size-large wp-image-388" srcset="/wp-content/uploads/2018/02/Screen-Shot-2018-02-09-at-9.32.21-AM-1024x598.png 1024w, /wp-content/uploads/2018/02/Screen-Shot-2018-02-09-at-9.32.21-AM-300x175.png 300w, /wp-content/uploads/2018/02/Screen-Shot-2018-02-09-at-9.32.21-AM-768x448.png 768w, /wp-content/uploads/2018/02/Screen-Shot-2018-02-09-at-9.32.21-AM.png 1144w" sizes="(max-width: 1024px) 100vw, 1024px" /> 
+<img src="/wp-content/uploads/2018/02/Screen-Shot-2018-02-09-at-9.32.21-AM-1024x598.png" alt="" width="1024" height="598" class="alignnone size-large wp-image-388" srcset="/wp-content/uploads/2018/02/Screen-Shot-2018-02-09-at-9.32.21-AM-1024x598.png 1024w, /wp-content/uploads/2018/02/Screen-Shot-2018-02-09-at-9.32.21-AM-300x175.png 300w, /wp-content/uploads/2018/02/Screen-Shot-2018-02-09-at-9.32.21-AM-768x448.png 768w, /wp-content/uploads/2018/02/Screen-Shot-2018-02-09-at-9.32.21-AM.png 1144w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 ### 6. Mining Cryptocurrency in the cloud
 

@@ -4,6 +4,7 @@ title: 'I&#8217;m building a bot'
 date: 2017-05-27T23:54:09+00:00
 author: Scott Shapiro
 layout: post
+tags: [ Bots, Coding  ]
 guid: http://www.scottshapiro.com/newblog/?p=67
 permalink: /im-building-a-bot/
 dsq_thread_id:
@@ -42,7 +43,7 @@ In addition to solving a real problem, I chose to go down this path for several 
 
 My rooftop solar power system sometimes trips the circuit breaker. But there were no quick ways to be notified of a problem. The only way was by looking at my power bill. My surprise-almost-three-hundred-dollar-bill!
 
-<img class="alignnone size-medium wp-image-75" src="/wp-content/uploads/2017/05/Screen-Shot-2017-05-27-at-4.50.30-PM-300x147.png" alt="" width="300" height="147"/> 
+<img class="alignnone size-medium wp-image-75" src="/wp-content/uploads/2017/05/Screen-Shot-2017-05-27-at-4.50.30-PM-300x147.png" alt="" width="300" height="147"/>
 
 I had stopped looking at these bills several years ago because we are a net producer of power. I never have a bill to pay and in fact over produce by several hundred dollars a year (separate topic on how I could monetize that power). This all changed last year when our system stopped producing power for several months. This all could have been avoided.
 
