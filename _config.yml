@@ -63,6 +63,7 @@ plugins_dir:
   - jekyll-tagsgenerator
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
 
 # Pagination
 paginate: 10
