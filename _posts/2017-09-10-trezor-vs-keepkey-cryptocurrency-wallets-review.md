@@ -1,22 +1,25 @@
 ---
+title: Trezor vs. Keepkey &#8211; Cryptocurrency Hardware Wallet Review
+date: 2017-09-10 17:54:02 Z
+permalink: "/trezor-vs-keepkey-cryptocurrency-wallets-review/"
+categories:
+- Cryptocurrency
+tags:
+- Crypto
+- Wallets
 id: 311
-title: 'Trezor vs. Keepkey &#8211; Cryptocurrency Hardware Wallet Review'
-date: 2017-09-10T17:54:02+00:00
 author: Scott Shapiro
 layout: post
 guid: http://www.scottshapiro.com/?p=311
-permalink: /trezor-vs-keepkey-cryptocurrency-wallets-review/
-tags: [ Crypto, Wallets ]
 dpsp_networks_shares:
-  - 'a:2:{s:8:"facebook";i:27;s:9:"pinterest";i:0;}'
+- a:2:{s:8:"facebook";i:27;s:9:"pinterest";i:0;}
 dpsp_networks_shares_total:
-  - "27"
+- '27'
 dpsp_networks_shares_last_updated:
-  - "1553829604"
-image: /newblog/wp-content/uploads/2017/09/Screen-Shot-2017-09-08-at-5.20.06-PM.png
-categories:
-  - Cryptocurrency
+- '1553829604'
+image: "/newblog/wp-content/uploads/2017/09/Screen-Shot-2017-09-08-at-5.20.06-PM.png"
 ---
+
 ## tldr: Both wallets are solid; Trezor has a slight lead
 
 I&#8217;m a big fan of the mantra “not your keys, not your coin” pioneered by [@aantonop](https://twitter.com/aantonop). Hardware wallets like Trezor, Keepkey, and Ledger store your keys in the safest way possible (outside of a beefy vault safe). Which means your coins are also the safest.

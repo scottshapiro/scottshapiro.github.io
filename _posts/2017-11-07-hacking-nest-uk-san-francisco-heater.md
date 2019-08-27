@@ -1,24 +1,27 @@
 ---
-id: 326
 title: Hacking Nest UK to work in San Francisco, USA
-date: 2017-11-07T20:04:21+00:00
+date: 2017-11-07 20:04:21 Z
+permalink: "/hacking-nest-uk-san-francisco-heater/"
+categories:
+- Smart Home
+tags:
+- Hardware
+- IoT
+id: 326
 author: Scott Shapiro
-excerpt: How I had to import and hack Nest UK to work with my ancient furnace heater in San Francisco
+excerpt: How I had to import and hack Nest UK to work with my ancient furnace heater
+  in San Francisco
 layout: post
 guid: http://www.scottshapiro.com/?p=326
-permalink: /hacking-nest-uk-san-francisco-heater/
-tags: [ Hardware, IoT ]
 dpsp_networks_shares:
-  - 'a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:67;}'
+- a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:67;}
 dpsp_networks_shares_total:
-  - "67"
+- '67'
 dpsp_networks_shares_last_updated:
-  - "1553829604"
-categories:
-  - Smart Home
-
+- '1553829604'
 featured: false
 ---
+
 _I&#8217;m addicted to the smart home, but have struggled for years to find a solution for our heater in San Francisco, USA. Nest wouldn&#8217;t work. Here&#8217;s how I resolved it._
 
 ### My thermostat is old and analog. I wish I had a Nest
