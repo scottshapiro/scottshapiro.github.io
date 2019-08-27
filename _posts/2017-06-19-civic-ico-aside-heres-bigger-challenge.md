@@ -1,30 +1,35 @@
 ---
+title: Civic ICO Aside, Here&#8217;s Their Bigger Challenge
+date: 2017-06-19 06:31:02 Z
+permalink: "/civic-ico-aside-heres-bigger-challenge/"
+categories:
+- Cryptocurrency
+- ICO
+tags:
+- Crypto
+- Tokens
 id: 220
-title: 'Civic ICO Aside, Here&#8217;s Their Bigger Challenge'
-date: 2017-06-19T06:31:02+00:00
 author: Scott Shapiro
-excerpt: Civic is one of the most interesting projects in Cryptocurrency today, but it will need to figure out an extremely efficient consumer acquisition model that pairs with particular businesses.
+excerpt: Civic is one of the most interesting projects in Cryptocurrency today, but
+  it will need to figure out an extremely efficient consumer acquisition model that
+  pairs with particular businesses.
 layout: post
 guid: http://www.scottshapiro.com/?p=220
-permalink: /civic-ico-aside-heres-bigger-challenge/
-tags: [ Crypto, Tokens  ]
 dpsp_networks_shares:
-  - 'a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:1;}'
+- a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:1;}
 dpsp_networks_shares_total:
-  - "1"
+- '1'
 dpsp_networks_shares_last_updated:
-  - "1553829604"
+- '1553829604'
 instant_articles_force_submit:
-  - "1"
+- '1'
 instant_articles_submission_id:
-  - "174007253138131"
+- '174007253138131'
 dsq_thread_id:
-  - "5923733925"
-image: /newblog/wp-content/uploads/2017/06/who__s_fingerprint__by_nectar666.jpg
-categories:
-  - Cryptocurrency
-  - ICO
+- '5923733925'
+image: "/newblog/wp-content/uploads/2017/06/who__s_fingerprint__by_nectar666.jpg"
 ---
+
 _Civic is one of the most interesting projects in Cryptocurrency today, but it will need to figure out an extremely efficient consumer acquisition model that pairs with particular businesses._
 
 ## The Civic ICO is going to make a splash

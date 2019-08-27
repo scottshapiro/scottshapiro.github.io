@@ -1,31 +1,34 @@
 ---
+title: I&#8217;m building a bot
+date: 2017-05-27 23:54:09 Z
+permalink: "/im-building-a-bot/"
+categories:
+- I'm building a bot
+tags:
+- Bots
+- Coding
 id: 67
-title: 'I&#8217;m building a bot'
-date: 2017-05-27T23:54:09+00:00
 author: Scott Shapiro
 layout: post
-tags: [ Bots, Coding  ]
 guid: http://www.scottshapiro.com/newblog/?p=67
-permalink: /im-building-a-bot/
 dsq_thread_id:
-  - "5858354333"
+- '5858354333'
 ampforwp_custom_content_editor:
-  - ""
+- ''
 ampforwp_custom_content_editor_checkbox:
-  - null
+- 
 ampforwp-amp-on-off:
-  - default
+- default
 instant_articles_submission_id:
-  - "1922789687993566"
+- '1922789687993566'
 dpsp_networks_shares:
-  - 'a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:164;}'
+- a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:164;}
 dpsp_networks_shares_total:
-  - "164"
+- '164'
 dpsp_networks_shares_last_updated:
-  - "1553829605"
-categories:
-  - "I'm building a bot"
+- '1553829605'
 ---
+
 _I recently started building a Messenger Bot. This is a series describing how I approached it and what I learned._
 
 ## Why build a bot?

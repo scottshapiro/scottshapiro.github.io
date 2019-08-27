@@ -1,10 +1,8 @@
 ---
-layout: page
 title: Climbing resume
-permalink: /climbing/
-published: true
+permalink: "/climbing/"
+layout: page
 ---
-
 
 ## Ski Mountaineering / Touring
 * Mt Shasta, CA (PD) - June 2016 - summited 4321m via Hotlum-Wintun ridge, overnight snow camp, unguided on skis - [trip report](https://www.facebook.com/notes/scott-shapiro/skiing-mount-shasta-2016/10154386704841802)

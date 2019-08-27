@@ -1,21 +1,23 @@
 ---
-id: 361
 title: Never miss a Booking.com free cancellation
-date: 2017-11-19T17:02:31+00:00
+date: 2017-11-19 17:02:31 Z
+permalink: "/booking-com-free-cancellation-notifications/"
+categories:
+- Hacking
+tags:
+- Coding
+id: 361
 author: Scott Shapiro
 layout: post
 guid: http://www.scottshapiro.com/?p=361
-permalink: /booking-com-free-cancellation-notifications/
-tags: [ Coding ]
 dpsp_networks_shares:
-  - 'a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:94;}'
+- a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:94;}
 dpsp_networks_shares_total:
-  - "94"
+- '94'
 dpsp_networks_shares_last_updated:
-  - "1553829603"
-categories:
-  - Hacking
+- '1553829603'
 ---
+
 I love Booking.com. It&#8217;s my favorite travel reservation site.
 
 I often book way more reservations than I&#8217;ll ever use. Sometimes I&#8217;m not sure I&#8217;ll actually be able to travel. Other times I&#8217;m not sure where the weather will be best. I love optionality.

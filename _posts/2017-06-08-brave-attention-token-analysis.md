@@ -1,26 +1,29 @@
 ---
-id: 174
 title: Will Basic Attention Token scale?
-date: 2017-06-08T08:16:09+00:00
+date: 2017-06-08 08:16:09 Z
+permalink: "/brave-attention-token-analysis/"
+categories:
+- Cryptocurrency
+- ICO
+tags:
+- Crypto
+- Advertising
+id: 174
 author: Scott Shapiro
 layout: post
 guid: http://www.scottshapiro.com/?p=174
-permalink: /brave-attention-token-analysis/
-tags: [ Crypto, Advertising  ]
 instant_articles_submission_id:
-  - "280391735765083"
+- '280391735765083'
 dsq_thread_id:
-  - "5891703331"
+- '5891703331'
 dpsp_networks_shares:
-  - 'a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:13;}'
+- a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:13;}
 dpsp_networks_shares_total:
-  - "13"
+- '13'
 dpsp_networks_shares_last_updated:
-  - "1553829605"
-categories:
-  - Cryptocurrency
-  - ICO
+- '1553829605'
 ---
+
 As someone who&#8217;s worked in digital advertising for over a decade and is very passionate about cryptocurrency and blockchains, I wanted to share some thoughts on one of the most notable ICO&#8217;s to date: [Basic Attention Token](https://basicattentiontoken.org/index.html). [Not about how the ICO went](https://hacked.com/controversy-surrounding-bat-ico/) which plenty has been written about, but instead about the business model and viability. (Disclosure: I work on ads at Facebook. I hold Ether, which underlies BAT. I have never held any BAT.)
 
 ## Why is it so notable?

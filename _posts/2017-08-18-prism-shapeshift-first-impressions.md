@@ -1,22 +1,25 @@
 ---
+title: Prism by Shapeshift &#8211; first impressions
+date: 2017-08-18 08:17:27 Z
+permalink: "/prism-shapeshift-first-impressions/"
+categories:
+- Cryptocurrency
+tags:
+- Crypto
+- Ethereum
 id: 288
-title: 'Prism by Shapeshift &#8211; first impressions'
-date: 2017-08-18T08:17:27+00:00
 author: Scott Shapiro
 layout: post
 guid: http://www.scottshapiro.com/?p=288
-permalink: /prism-shapeshift-first-impressions/
-tags: [ Crypto, Ethereum ]
 dpsp_networks_shares:
-  - 'a:2:{s:8:"facebook";i:20;s:9:"pinterest";i:1;}'
+- a:2:{s:8:"facebook";i:20;s:9:"pinterest";i:1;}
 dpsp_networks_shares_total:
-  - "21"
+- '21'
 dpsp_networks_shares_last_updated:
-  - "1553829604"
-image: /newblog/wp-content/uploads/2017/08/Screen-Shot-2017-08-18-at-8.03.18-AM.png
-categories:
-  - Cryptocurrency
+- '1553829604'
+image: "/newblog/wp-content/uploads/2017/08/Screen-Shot-2017-08-18-at-8.03.18-AM.png"
 ---
+
 Ever since I heard of [Prism by Shapeshift](http://prism.exchange) I&#8217;ve been anxious to try it out! I&#8217;m a huge fan of financial derivatives and cryptocurrency. [Founder Erik Voorhees](http://twitter.com/ErikVoorhees) is a legendary cryptocurrency entrepreneur and is always ahead of the curve. His cryptocurrency exchange company Shapeshift recently acquired Keepkey, launched Prism, and he initiated a token sale for his newest venture [SALT lending](https://www.saltlending.com). So as soon as I received my Prism beta invite, I dove right in.
 
 ## Prism Asset Allocation

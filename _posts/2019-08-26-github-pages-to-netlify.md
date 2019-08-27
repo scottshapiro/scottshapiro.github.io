@@ -1,8 +1,10 @@
 ---
-title: "Jekyll: From Github Pages to Netlify"
-tags: [ Coding ]
+title: 'Jekyll: From Github Pages to Netlify'
+date: 2019-08-26 00:00:00 Z
+tags:
+- Coding
 layout: post
-featured_image: /assets/images/jekyll.png
+featured_image: "/assets/images/jekyll.png"
 ---
 
 I just finished migrating (unexpectedly) this Jekyll site's hosting from Github Pages to Netlify. So far, I'm very happy with the decision for performance and functionality reasons. 
