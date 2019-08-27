@@ -1,5 +1,5 @@
 ---
-title: "From Github Pages to Netlify"
+title: "Jekyll: From Github Pages to Netlify"
 tags: [ Coding ]
 layout: post
 featured_image: /assets/images/jekyll.png
