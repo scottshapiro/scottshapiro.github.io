@@ -1,34 +1,37 @@
 ---
-id: 138
 title: Enter Messenger
-date: 2017-06-13T05:55:04+00:00
+date: 2017-06-13 05:55:04 Z
+permalink: "/how-i-built-solar-messenger-bot-v1/"
+categories:
+- I'm building a bot
+tags:
+- Bots
+- Coding
+id: 138
 author: Scott Shapiro
 layout: post
 guid: http://www.scottshapiro.com/?p=138
-permalink: /how-i-built-solar-messenger-bot-v1/
-tags: [ Bots, Coding  ]
 ampforwp_custom_content_editor:
-  - ""
+- ''
 ampforwp_custom_content_editor_checkbox:
-  - ""
+- ''
 ampforwp-amp-on-off:
-  - default
+- default
 instant_articles_force_submit:
-  - "1"
+- '1'
 dsq_thread_id:
-  - "5889052791"
+- '5889052791'
 instant_articles_submission_id:
-  - "103361320302204"
+- '103361320302204'
 dpsp_networks_shares:
-  - 'a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:55;}'
+- a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:55;}
 dpsp_networks_shares_total:
-  - "55"
+- '55'
 dpsp_networks_shares_last_updated:
-  - "1553829605"
-image: /newblog/wp-content/uploads/2017/06/18765781_1696016267359802_5971401537594786070_n.jpg
-categories:
-  - "I'm building a bot"
+- '1553829605'
+image: "/newblog/wp-content/uploads/2017/06/18765781_1696016267359802_5971401537594786070_n.jpg"
 ---
+
 _I recently built a Messenger Bot. This is the fourth part in a series describing how I built it and what I learned._
 
 [After implementing Alexa]({{ site.baseurl }}{% post_url 2017-05-27-im-building-a-bot %}), I realized that it wouldn&#8217;t be a huge step to [do something similar on Messenger]({{ site.baseurl }}{% post_url 2017-06-06-how-i-got-started-building-a-messenger-bot-with-alexa %}). After all, push notifications was my top requirement.

@@ -1,30 +1,34 @@
 ---
+title: The 5 issues with ICO&#8217;s
+date: 2017-06-21 08:01:37 Z
+permalink: "/5-issues-icos/"
+categories:
+- Cryptocurrency
+- ICO
+tags:
+- Crypto
+- Tokens
 id: 200
-title: 'The 5 issues with ICO&#8217;s'
-date: 2017-06-21T08:01:37+00:00
 author: Scott Shapiro
-excerpt: 'Initial Coin Offerings are exciting, but there are some huge fundamental issues with the way this is going down today. '
+excerpt: 'Initial Coin Offerings are exciting, but there are some huge fundamental
+  issues with the way this is going down today. '
 layout: post
 guid: http://www.scottshapiro.com/?p=200
-permalink: /5-issues-icos/
-tags: [ Crypto, Tokens  ]
 dpsp_networks_shares:
-  - 'a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:141;}'
+- a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:141;}
 dpsp_networks_shares_total:
-  - "141"
+- '141'
 dpsp_networks_shares_last_updated:
-  - "1553829604"
+- '1553829604'
 dsq_thread_id:
-  - "5930294610"
+- '5930294610'
 instant_articles_force_submit:
-  - "1"
+- '1'
 instant_articles_submission_id:
-  - "1929834913896686"
-image: /newblog/wp-content/uploads/2017/06/4353290261_b0fddc8226.jpg
-categories:
-  - Cryptocurrency
-  - ICO
+- '1929834913896686'
+image: "/newblog/wp-content/uploads/2017/06/4353290261_b0fddc8226.jpg"
 ---
+
 [ICO&#8217;s](https://en.wikipedia.org/wiki/Initial_coin_offering) (Initial Coin Offerings &#8211; think: crowdfunding for cryptobusinesses on steroids) are occuring more often and at even larger scale. While it&#8217;s super exciting, there are some huge fundamental issues with the way this is going down. I&#8217;m shocked by the extreme speculation and lack of diligence. We will see the musical chair stop sometime this year and it will get ugly.
 
 ## 1. Seed-stage businesses are raising series C-sized ICO&#8217;s

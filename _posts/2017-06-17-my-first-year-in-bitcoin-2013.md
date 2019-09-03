@@ -1,32 +1,36 @@
 ---
-id: 182
 title: My first year in Bitcoin
-date: 2017-06-17T08:10:34+00:00
+date: 2017-06-17 08:10:34 Z
+permalink: "/my-first-year-in-bitcoin-2013/"
+categories:
+- Bitcoin
+- Cryptocurrency
+tags:
+- Crypto
+- Bitcoin
+id: 182
 author: Scott Shapiro
-excerpt: 'Bitcoin hit $3,000 earlier this week. Then it dropped by 30%. In honor of that arbitrary high watermark and even higher volatility, I wanted to share the first year of my journey into cryptocurrency.'
+excerpt: Bitcoin hit $3,000 earlier this week. Then it dropped by 30%. In honor of
+  that arbitrary high watermark and even higher volatility, I wanted to share the
+  first year of my journey into cryptocurrency.
 layout: post
 guid: http://www.scottshapiro.com/?p=182
-permalink: /my-first-year-in-bitcoin-2013/
-tags: [ Crypto, Bitcoin  ]
 dsq_thread_id:
-  - "5901900254"
+- '5901900254'
 instant_articles_force_submit:
-  - "1"
+- '1'
 instant_articles_submission_id:
-  - "1877126249204184"
+- '1877126249204184'
 dpsp_networks_shares:
-  - 'a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:161;}'
+- a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:161;}
 dpsp_networks_shares_total:
-  - "161"
+- '161'
 dpsp_networks_shares_last_updated:
-  - "1553829604"
-image: /newblog/wp-content/uploads/2017/06/10680032615_0717257f1d_b.jpg
-categories:
-  - Bitcoin
-  - Cryptocurrency
-
+- '1553829604'
+image: "/newblog/wp-content/uploads/2017/06/10680032615_0717257f1d_b.jpg"
 featured: false
 ---
+
 _Bitcoin hit $3,000 earlier this week. Then it dropped by 30%. In honor of that arbitrary high watermark and even higher volatility, I wanted to share the first year of my journey into cryptocurrency._
 
 ### I first discovered Bitcoin in February 2013.

@@ -1,8 +1,10 @@
 ---
-title: "Trip Report: Mt. Whitney Mountaineer's Route March 22-24, 2013"
-tags: [ Climbing ]
+title: 'Trip Report: Mt. Whitney Mountaineer''s Route March 22-24, 2013'
+date: 2013-03-25 00:00:00 Z
+tags:
+- Climbing
 layout: post
-featured_image: /images/whitney/summit.jpg
+featured_image: "/images/whitney/summit.jpg"
 ---
 
 _This is a climbing trip report following a successful early spring summit of Mt. Whitney via the Mountaineer's Route. I originally posted this on [Whitney Zone forums](http://www.whitneyzone.com). In 2019 I archived [that post](http://www.whitneyzone.com/wz/ubbthreads.php/topics/30565/Mountaineer's_Route_March_22-2) to ensure its preservation._

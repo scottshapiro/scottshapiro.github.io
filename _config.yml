@@ -1,81 +1,63 @@
-# Site setings
-name: 'Scott Shapiro'
-description: "Scott Shapiro's personal blog"
-meta_description: "Scott Shapiro's personal blog"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
-baseurl:
-production_url: https://scottshapiro.com/
-disqus:
-mailchimp_url: '//scottshapiro.us16.list-manage.com/subscribe/post?u=5c7e9216b6ff26ac8fbd9c161&amp;id=b2ceab4033'
-
+---
+title: Scott Shapiro’s Blog
+timezone: America/Los_Angeles
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+name: Scott Shapiro
+description: Scott Shapiro's personal blog
+meta_description: Scott Shapiro's personal blog
+logo: assets/images/logo.png
+favicon: assets/images/favicon.ico
+baseurl: 
+production_url: https://www.scottshapiro.com/
+disqus: 
+mailchimp_url: "//scottshapiro.us16.list-manage.com/subscribe/post?u=5c7e9216b6ff26ac8fbd9c161&amp;id=b2ceab4033"
 cover_image: bg5.jpg
-# Add your GA Tracking Id
 ga_analytics: UA-92823-1
-
-
-# Author
 author:
-  name: 'Scott Shapiro'
-  image: 'authorimage.jpg'
-  greetings: "Hi, I'm Scott Shapiro."
-  description: "I've been working in technology in the Bay Area for the last nine years. I've become obsessed with cryptocurrency over the last six. I love pushing myself out of my comfort zone, whether technical or physical. This blog serves as a partial record of those attempts."
-  bio: 'Scott is a product manager in San Francisco. He has as BS in Computer Science from UC San Diego and an MBA from UC Berkeley.'
-
-# Contact form setings
+  name: Scott Shapiro
+  image: authorimage.jpg
+  greetings: Hi, I'm Scott Shapiro.
+  description: I've been working in technology in the Bay Area for the last nine years.
+    I've become obsessed with cryptocurrency over the last six. I love pushing myself
+    out of my comfort zone, whether technical or physical. This blog serves as a partial
+    record of those attempts.
+  bio: Scott is a product manager in San Francisco. He has as BS in Computer Science
+    from UC San Diego and an MBA from UC Berkeley.
 email: youremail@email.com
-contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
-thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
-
-# Social links
-
-#  instagram: scott.shapiro
-#  linkedin: scottashapiro
-
-twitter: 'scottshapiro'
-facebook: 'scott.shapiro'
-github: 'scottshapiro'
-codepen:
-dribbble:
-medium:
-instagram: 'scott.shapiro'
-pinterest:
-linkedin: 'scottashapiro'
-producthunt:
-
-
-#  bitcoin: www.scottshapiro.com/btc
-#  lightning: 0206c7b60457550f512d80ecdd9fb6eb798ce7e91bf6ec08ad9c53d72e94ef620d
-
-
-# Navigation
+contact_page_description: Horace theme comes with a contact form built-in. You can
+  use this form with Formspree service and get up to 50 submissions for free. Also,
+  you can easily switch to another service if you want.
+thankyou_page_description: Your message has been successfully sent. We will contact
+  you very soon!
+twitter: scottshapiro
+facebook: scott.shapiro
+github: scottshapiro
+codepen: 
+dribbble: 
+medium: 
+instagram: scott.shapiro
+pinterest: 
+linkedin: scottashapiro
+producthunt: 
 navigation:
-  - text: About
-    url: /about
-#  - text: Style Guide
-#    url: /style-guide/
-#  - text: Contact Me
-#    url: /contact/
-
-# Required Plugins
+- text: About
+  url: "/about"
 plugins_dir:
-  - jekyll-paginate
-  - jekyll-tagsgenerator
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-
-# Pagination
+- jekyll-paginate
+- jekyll-tagsgenerator
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
 paginate: 10
-paginate_path: /page:num/
-
-# Permalinks
-permalink: /:title
-
-# Other
+paginate_path: "/page:num/"
+permalink: "/:title"
 markdown: kramdown
-
-# Sass
 sass:
   sass_dir: _sass
   style: compressed

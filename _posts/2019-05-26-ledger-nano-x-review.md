@@ -1,7 +1,12 @@
 ---
 title: Ledger Nano X Review - A Mobile Hardware Wallet!
+date: 2019-05-26 00:00:00 Z
+tags:
+- Crypto
+- Wallets
 author: Scott Shapiro
 tags: [ Crypto, Wallets ]
+featured_image: /images/ledger.png
 layout: post
 ---
 

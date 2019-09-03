@@ -1,21 +1,24 @@
 ---
+title: Dharma Lever Alpha &#8211; borrowing and lending DAI and ETH
+date: 2019-03-06 21:52:07 Z
+permalink: "/dharma-lever-alpha-borrowing-and-lending-dai-and-eth/"
+categories:
+- Uncategorized
+tags:
+- Crypto
+- Finance
 id: 412
-title: 'Dharma Lever Alpha &#8211; borrowing and lending DAI and ETH'
-date: 2019-03-06T21:52:07+00:00
 author: Scott Shapiro
 layout: post
 guid: http://www.scottshapiro.com/?p=412
-permalink: /dharma-lever-alpha-borrowing-and-lending-dai-and-eth/
-tags: [ Crypto, Finance ]
 dpsp_networks_shares:
-  - 'a:2:{s:8:"facebook";i:0;s:9:"pinterest";i:0;}'
+- a:2:{s:8:"facebook";i:0;s:9:"pinterest";i:0;}
 dpsp_networks_shares_total:
-  - "0"
+- '0'
 dpsp_networks_shares_last_updated:
-  - "1553829603"
-categories:
-  - Uncategorized
+- '1553829603'
 ---
+
 I shared a twitter thread on my first experience using Dharma Lever Alpha to borrow and lend Ethereum and MakerDAO&#8217;s DAI.
 
 <div id="tttt_1103522153633263616" data-option="1">
