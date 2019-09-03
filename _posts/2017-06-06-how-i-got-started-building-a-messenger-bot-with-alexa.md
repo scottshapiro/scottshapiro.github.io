@@ -1,35 +1,37 @@
 ---
-id: 130
 title: I started with Alexa
-date: 2017-06-06T02:15:17+00:00
+date: 2017-06-06 02:15:17 Z
+permalink: "/how-i-got-started-building-a-messenger-bot-with-alexa/"
+categories:
+- I'm building a bot
+tags:
+- Bots
+- Coding
+id: 130
 author: Scott Shapiro
 layout: post
 guid: http://www.scottshapiro.com/?p=130
-permalink: /how-i-got-started-building-a-messenger-bot-with-alexa/
-tags: [ Bots, Coding  ]
 ampforwp_custom_content_editor:
-  - ""
+- ''
 ampforwp_custom_content_editor_checkbox:
-  - null
+- 
 ampforwp-amp-on-off:
-  - default
+- default
 instant_articles_force_submit:
-  - "1"
+- '1'
 dsq_thread_id:
-  - "5873749287"
+- '5873749287'
 instant_articles_submission_id:
-  - "1911316682423672"
-
+- '1911316682423672'
 dpsp_networks_shares:
-  - 'a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:19;}'
+- a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:19;}
 dpsp_networks_shares_total:
-  - "19"
+- '19'
 dpsp_networks_shares_last_updated:
-  - "1553829605"
-image: /newblog/wp-content/uploads/2017/06/img_8878.jpg
-categories:
-  - "I'm building a bot"
+- '1553829605'
+image: "/newblog/wp-content/uploads/2017/06/img_8878.jpg"
 ---
+
 _I recently built a Messenger Bot. This is the third post in a series describing how I built it and what I learned._
 
 My first encounter with my solar power system&#8217;s API was not with Messenger but with Alexa. Alexa is the voice recognition and processing system behind the [Amazon Echo](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E).

@@ -1,24 +1,28 @@
 ---
+title: The cryptocurrencies I&#8217;m excited about
+date: 2017-06-25 10:59:04 Z
+permalink: "/cryptocurrencies-im-excited-about/"
+categories:
+- Cryptocurrency
+tags:
+- Crypto
+- Bitcoin
+- Ethereum
 id: 241
-title: 'The cryptocurrencies I&#8217;m excited about'
-date: 2017-06-25T10:59:04+00:00
 author: Scott Shapiro
 layout: post
 guid: http://www.scottshapiro.com/?p=241
-permalink: /cryptocurrencies-im-excited-about/
-tags: [ Crypto, Bitcoin, Ethereum  ]
 dpsp_networks_shares:
-  - 'a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:90;}'
+- a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:90;}
 dpsp_networks_shares_total:
-  - "90"
+- '90'
 dpsp_networks_shares_last_updated:
-  - "1553829604"
+- '1553829604'
 instant_articles_submission_id:
-  - "780442078800214"
-image: /newblog/wp-content/uploads/2017/06/1036px-Demareteion_0667.jpg
-categories:
-  - Cryptocurrency
+- '780442078800214'
+image: "/newblog/wp-content/uploads/2017/06/1036px-Demareteion_0667.jpg"
 ---
+
 _After entering cryptocurrency [via Bitcoin in 2013]({{ site.baseurl }}{% post_url 2017-06-17-my-first-year-in-bitcoin-2013 %}), I expanded my purview to other coins. Below is my opinion on the fundamentals of some other cryptocurrencies, without regard to price or technical analysis. Disclosure: I hold positions in many of these below. This is not investment advice._
 
 # The big three cryptocurrencies

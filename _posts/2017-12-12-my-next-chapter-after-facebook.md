@@ -1,22 +1,24 @@
 ---
-id: 370
 title: My Next Chapter After Facebook
-date: 2017-12-12T06:51:35+00:00
+date: 2017-12-12 06:51:35 Z
+permalink: "/my-next-chapter-after-facebook/"
+categories:
+- Career
+tags:
+- Career
+id: 370
 author: Scott Shapiro
 layout: post
 guid: http://www.scottshapiro.com/?p=370
-permalink: /my-next-chapter-after-facebook/
-tags: [ Career ]
 dpsp_networks_shares:
-  - 'a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:567;}'
+- a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:567;}
 dpsp_networks_shares_total:
-  - "567"
+- '567'
 dpsp_networks_shares_last_updated:
-  - "1553829603"
-image: /newblog/wp-content/uploads/2017/12/740838703.jpg
-categories:
-  - Career
+- '1553829603'
+image: "/newblog/wp-content/uploads/2017/12/740838703.jpg"
 ---
+
 In 2010, I was weighing a heavy decision. I had two compelling job offers. Do I return to the Ads Product Marketing team at Facebook, where I had interned and continued to work part time during grad school? Or do I join Google as a Product Manager?
 
 ## I joined Facebook in 2010

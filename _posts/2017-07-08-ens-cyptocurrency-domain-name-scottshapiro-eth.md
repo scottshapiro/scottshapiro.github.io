@@ -1,24 +1,28 @@
 ---
-id: 255
 title: 'My cyptocurrency domain name: scottshapiro.eth'
-date: 2017-07-08T15:41:11+00:00
+date: 2017-07-08 15:41:11 Z
+permalink: "/ens-cyptocurrency-domain-name-scottshapiro-eth/"
+categories:
+- Cryptocurrency
+- Ethereum
+tags:
+- Crypto
+- Ethereum
+id: 255
 author: Scott Shapiro
-excerpt: "I recently acquired scottshapiro.eth as my cryptocurrency domain name. Here's how I used Ethereum Name Service (ENS) to buy and set it up."
+excerpt: I recently acquired scottshapiro.eth as my cryptocurrency domain name. Here's
+  how I used Ethereum Name Service (ENS) to buy and set it up.
 layout: post
 guid: http://www.scottshapiro.com/?p=255
-tags: [ Crypto, Ethereum ]
-permalink: /ens-cyptocurrency-domain-name-scottshapiro-eth/
 dpsp_networks_shares:
-  - 'a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:1183;}'
+- a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:1183;}
 dpsp_networks_shares_total:
-  - "1183"
+- '1183'
 dpsp_networks_shares_last_updated:
-  - "1553829604"
-image: /newblog/wp-content/uploads/2017/07/Screen-Shot-2017-07-08-at-3.22.56-PM-1.png
-categories:
-  - Cryptocurrency
-  - Ethereum
+- '1553829604'
+image: "/newblog/wp-content/uploads/2017/07/Screen-Shot-2017-07-08-at-3.22.56-PM-1.png"
 ---
+
 _I&#8217;m always on the hunt for interesting applications of cryptocurrency. Ones that actually solve everyday problems. Even better if they solve a problem I&#8217;m experiencing. When I heard of [Ethereum Name Service](http://registrar.ens.domains/), I immediately jumped on it._
 
 ## What is Ethereum Name Service?

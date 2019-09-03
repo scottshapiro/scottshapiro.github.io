@@ -1,36 +1,39 @@
 ---
-id: 72
 title: Why I chose Messenger
-date: 2017-06-02T06:09:51+00:00
+date: 2017-06-02 06:09:51 Z
+permalink: "/why-i-chose-messenger-to-build-a-bot/"
+categories:
+- I'm building a bot
+tags:
+- Bots
+- Coding
+id: 72
 author: Scott Shapiro
 layout: post
-tags: [ Bots, Coding  ]
 guid: http://www.scottshapiro.com/newblog/?p=72
-permalink: /why-i-chose-messenger-to-build-a-bot/
 ampforwp_custom_content_editor:
-  - ""
+- ''
 ampforwp_custom_content_editor_checkbox:
-  - null
+- 
 ampforwp-amp-on-off:
-  - default
+- default
 dsq_thread_id:
-  - "5859004670"
+- '5859004670'
 instant_articles_force_submit:
-  - "1"
+- '1'
 instant_articles_submission_id:
-  - "1875402652697850"
+- '1875402652697850'
 dpsp_networks_shares:
-  - 'a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:38;}'
+- a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:38;}
 dpsp_networks_shares_total:
-  - "38"
+- '38'
 dpsp_networks_shares_last_updated:
-  - "1553829605"
+- '1553829605'
 dsq_needs_sync:
-  - "1"
-image: /newblog/wp-content/uploads/2017/05/robots-764951_960_720.png
-categories:
-  - "I'm building a bot"
+- '1'
+image: "/newblog/wp-content/uploads/2017/05/robots-764951_960_720.png"
 ---
+
 _I recently built a Messenger Bot. This is the second in a series describing how I built it and what I learned. My first post was about [why I started down this path of building a bot.]({{ site.baseurl }}{% post_url 2017-05-27-im-building-a-bot %})_
 
 ## Why Messenger?
