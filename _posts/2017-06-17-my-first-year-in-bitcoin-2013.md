@@ -1,7 +1,6 @@
 ---
 title: My first year in Bitcoin
 date: 2017-06-17 08:10:34 Z
-permalink: "/my-first-year-in-bitcoin-2013/"
 categories:
 - Bitcoin
 - Cryptocurrency

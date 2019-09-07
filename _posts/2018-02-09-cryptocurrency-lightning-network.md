@@ -1,7 +1,6 @@
 ---
 title: 7 Baby Adventures in Cryptocurrency
 date: 2018-02-09 15:23:47 Z
-permalink: "/cryptocurrency-lightning-network/"
 categories:
 - Cryptocurrency
 tags:
@@ -11,14 +10,7 @@ tags:
 id: 380
 author: Scott Shapiro
 layout: post
-guid: http://www.scottshapiro.com/?p=380
-dpsp_networks_shares:
-- a:2:{s:8:"facebook";i:41;s:9:"pinterest";i:0;}
-dpsp_networks_shares_total:
-- '41'
-dpsp_networks_shares_last_updated:
-- '1553829603'
-featured: true
+featured: false
 ---
 
 I&#8217;ve spent the last three weeks on parental leave. It&#8217;s been awesome getting to know [our daughter Ava](http://www.scottandsue.com/welcome-ava-julia/) better. But in between the hundreds of diaper changes, bottle feeds, and [5 S&#8217;s](https://www.happiestbaby.com/blogs/blog/the-5-s-s-for-soothing-babies), I managed to explore some cryptocurrency projects. Often early in the morning or late at night when mom and baby are sleeping.

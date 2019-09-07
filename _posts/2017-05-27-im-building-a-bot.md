@@ -1,7 +1,6 @@
 ---
 title: I&#8217;m building a bot
 date: 2017-05-27 23:54:09 Z
-permalink: "/im-building-a-bot/"
 categories:
 - I'm building a bot
 tags:
@@ -16,7 +15,7 @@ dsq_thread_id:
 ampforwp_custom_content_editor:
 - ''
 ampforwp_custom_content_editor_checkbox:
-- 
+-
 ampforwp-amp-on-off:
 - default
 instant_articles_submission_id:

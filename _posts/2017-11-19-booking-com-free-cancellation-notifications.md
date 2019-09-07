@@ -1,7 +1,6 @@
 ---
 title: Never miss a Booking.com free cancellation
 date: 2017-11-19 17:02:31 Z
-permalink: "/booking-com-free-cancellation-notifications/"
 categories:
 - Hacking
 tags:

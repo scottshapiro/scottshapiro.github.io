@@ -1,6 +1,5 @@
 ---
 title: Climbing resume
-permalink: "/climbing/"
 layout: page
 ---
 

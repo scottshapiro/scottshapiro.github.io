@@ -7,7 +7,7 @@ layout: post
 featured_image: "/assets/images/jekyll.png"
 ---
 
-I just finished migrating (unexpectedly) this Jekyll site's hosting from Github Pages to Netlify. So far, I'm very happy with the decision for performance and functionality reasons. 
+I just finished migrating (unexpectedly) this Jekyll site's hosting from Github Pages to Netlify. So far, I'm very happy with the decision for performance and functionality reasons.
 
 I loved the Github Pages hosting model for its simplicity and integration with Github proper. But I didn't realize how limited its Jekyll offering was until I upgraded my site's theme today.
 
