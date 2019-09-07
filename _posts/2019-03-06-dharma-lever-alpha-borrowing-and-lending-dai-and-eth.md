@@ -1,7 +1,6 @@
 ---
 title: Dharma Lever Alpha &#8211; borrowing and lending DAI and ETH
 date: 2019-03-06 21:52:07 Z
-permalink: "/dharma-lever-alpha-borrowing-and-lending-dai-and-eth/"
 categories:
 - Uncategorized
 tags:

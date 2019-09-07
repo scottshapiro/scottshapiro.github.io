@@ -1,7 +1,6 @@
 ---
 title: The 5 issues with ICO&#8217;s
 date: 2017-06-21 08:01:37 Z
-permalink: "/5-issues-icos/"
 categories:
 - Cryptocurrency
 - ICO

@@ -1,6 +1,5 @@
 ---
 title: BTC
-permalink: "/btc/"
 layout: page
 ---
 

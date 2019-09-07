@@ -1,6 +1,5 @@
 ---
 title: LTC
-permalink: "/ltc/"
 layout: page
 ---
 
