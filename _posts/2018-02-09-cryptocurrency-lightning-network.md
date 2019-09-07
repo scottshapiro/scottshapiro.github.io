@@ -1,6 +1,6 @@
 ---
 title: 7 Baby Adventures in Cryptocurrency
-date: 2018-02-09 15:23:47 Z
+date: 2018-02-09 07:23:47 -08:00
 categories:
 - Cryptocurrency
 tags:

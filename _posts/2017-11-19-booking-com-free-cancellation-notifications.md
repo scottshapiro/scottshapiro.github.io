@@ -1,6 +1,6 @@
 ---
 title: Never miss a Booking.com free cancellation
-date: 2017-11-19 17:02:31 Z
+date: 2017-11-19 09:02:31 -08:00
 categories:
 - Hacking
 tags:

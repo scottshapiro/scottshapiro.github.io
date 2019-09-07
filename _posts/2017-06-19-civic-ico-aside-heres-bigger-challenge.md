@@ -1,6 +1,6 @@
 ---
 title: Civic ICO Aside, Here&#8217;s Their Bigger Challenge
-date: 2017-06-19 06:31:02 Z
+date: 2017-06-18 23:31:02 -07:00
 categories:
 - Cryptocurrency
 - ICO

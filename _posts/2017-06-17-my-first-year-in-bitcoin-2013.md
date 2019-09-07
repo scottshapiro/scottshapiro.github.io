@@ -1,6 +1,6 @@
 ---
 title: My first year in Bitcoin
-date: 2017-06-17 08:10:34 Z
+date: 2017-06-17 01:10:34 -07:00
 categories:
 - Bitcoin
 - Cryptocurrency

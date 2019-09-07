@@ -1,6 +1,6 @@
 ---
 title: Will Basic Attention Token scale?
-date: 2017-06-08 08:16:09 Z
+date: 2017-06-08 01:16:09 -07:00
 categories:
 - Cryptocurrency
 - ICO
