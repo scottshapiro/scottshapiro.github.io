@@ -1,7 +1,6 @@
 ---
 title: My Next Chapter After Facebook
 date: 2017-12-12 06:51:35 Z
-permalink: "/my-next-chapter-after-facebook/"
 categories:
 - Career
 tags:

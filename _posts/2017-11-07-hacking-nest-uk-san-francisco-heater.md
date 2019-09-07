@@ -1,7 +1,6 @@
 ---
 title: Hacking Nest UK to work in San Francisco, USA
 date: 2017-11-07 20:04:21 Z
-permalink: "/hacking-nest-uk-san-francisco-heater/"
 categories:
 - Smart Home
 tags:

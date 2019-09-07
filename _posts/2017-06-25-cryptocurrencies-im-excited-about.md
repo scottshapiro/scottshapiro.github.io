@@ -1,7 +1,6 @@
 ---
 title: The cryptocurrencies I&#8217;m excited about
 date: 2017-06-25 10:59:04 Z
-permalink: "/cryptocurrencies-im-excited-about/"
 categories:
 - Cryptocurrency
 tags:
@@ -11,15 +10,6 @@ tags:
 id: 241
 author: Scott Shapiro
 layout: post
-guid: http://www.scottshapiro.com/?p=241
-dpsp_networks_shares:
-- a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:90;}
-dpsp_networks_shares_total:
-- '90'
-dpsp_networks_shares_last_updated:
-- '1553829604'
-instant_articles_submission_id:
-- '780442078800214'
 image: "/newblog/wp-content/uploads/2017/06/1036px-Demareteion_0667.jpg"
 ---
 

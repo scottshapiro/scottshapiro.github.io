@@ -1,7 +1,6 @@
 ---
 title: Trezor vs. Keepkey &#8211; Cryptocurrency Hardware Wallet Review
 date: 2017-09-10 17:54:02 Z
-permalink: "/trezor-vs-keepkey-cryptocurrency-wallets-review/"
 categories:
 - Cryptocurrency
 tags:

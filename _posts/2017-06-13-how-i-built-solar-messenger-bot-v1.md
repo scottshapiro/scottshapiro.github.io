@@ -1,7 +1,6 @@
 ---
 title: Enter Messenger
 date: 2017-06-13 05:55:04 Z
-permalink: "/how-i-built-solar-messenger-bot-v1/"
 categories:
 - I'm building a bot
 tags:

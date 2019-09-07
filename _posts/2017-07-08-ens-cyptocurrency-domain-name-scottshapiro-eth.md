@@ -1,7 +1,6 @@
 ---
 title: 'My cyptocurrency domain name: scottshapiro.eth'
 date: 2017-07-08 15:41:11 Z
-permalink: "/ens-cyptocurrency-domain-name-scottshapiro-eth/"
 categories:
 - Cryptocurrency
 - Ethereum

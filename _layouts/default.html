@@ -65,7 +65,7 @@
             <div class="site-footer-inside">
                 {% include social-links.html %}
                 <p class="site-info">
-                    <a href="#">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }} 
+                    <a href="#">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }}. Opinions are my own. 
                 </p>
                 <p class="back-to-top">
                     <a id="top-button" class="top-button" href="#page">
@@ -83,7 +83,7 @@
     <script src="{{ site.baseurl }}/assets/js/jquery-3.3.1.min.js"></script>
     <script src="{{ site.baseurl }}/assets/js/plugins.js"></script>
     <script src="{{ site.baseurl }}/assets/js/custom.js"></script>
-    
+
     <script>
   if (window.netlifyIdentity) {
     window.netlifyIdentity.on("init", user => {
