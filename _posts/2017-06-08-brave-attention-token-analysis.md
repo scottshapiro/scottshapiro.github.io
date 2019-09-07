@@ -1,7 +1,6 @@
 ---
 title: Will Basic Attention Token scale?
 date: 2017-06-08 08:16:09 Z
-permalink: "/brave-attention-token-analysis/"
 categories:
 - Cryptocurrency
 - ICO

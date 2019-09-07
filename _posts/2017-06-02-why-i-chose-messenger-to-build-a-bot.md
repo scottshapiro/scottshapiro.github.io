@@ -1,7 +1,6 @@
 ---
 title: Why I chose Messenger
 date: 2017-06-02 06:09:51 Z
-permalink: "/why-i-chose-messenger-to-build-a-bot/"
 categories:
 - I'm building a bot
 tags:
@@ -14,7 +13,7 @@ guid: http://www.scottshapiro.com/newblog/?p=72
 ampforwp_custom_content_editor:
 - ''
 ampforwp_custom_content_editor_checkbox:
-- 
+-
 ampforwp-amp-on-off:
 - default
 dsq_thread_id:

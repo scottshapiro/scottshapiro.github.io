@@ -1,7 +1,6 @@
 ---
 title: Republished on Coinworld.io
 date: 2017-06-24 08:27:36 Z
-permalink: "/republished-on-coinworld-io/"
 categories:
 - ICO
 tags:
