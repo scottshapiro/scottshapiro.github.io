@@ -3,38 +3,18 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
-media_folder: 'assets/images'
+media_folder: 'assets/uploads'
 
-collections: # A list of collections the CMS should be able to edit
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Posts" # Used in the UI, ie
-    label_singular: "Post" # Used in the UI, ie.: "New Post"
-    folder: "_posts" # The path to the folder where the documents are stored
-    sort: "date:desc" # Default is title:asc
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields: # The fields each document in this collection have
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Featured image", name: "feature_image", widget: "image", required: false}
-      - {label: "Feature text", name: "feature_text", widget: "markdown", required: false}
-      - {label: "Excerpt", name: "excerpt", widget: "string", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Categories", name: "categories", widget: "string", required: false}
-      - {label: "Meta image", name: "image", widget: "image", required: false}
-    meta: # Meta data fields. Just like fields, but without any preview element
-      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
-  - name: "page" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Pages" # Used in the UI, ie
-    label_singular: "Page" # Used in the UI, ie.: "New Post"
-    folder: "/" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}"
-    fields: # The fields each document in this collection have
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Featured image", name: "feature_image", widget: "image", required: false}
-      - {label: "Feature text", name: "feature_text", widget: "markdown", required: false}
-      - {label: "Excerpt", name: "excerpt", widget: "string", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Meta image", name: "image", widget: "image", required: false}
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: '_posts/'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
