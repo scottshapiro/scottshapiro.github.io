@@ -1,6 +1,6 @@
 ---
 title: The cryptocurrencies I&#8217;m excited about
-date: 2017-06-25 10:59:04 Z
+date: 2017-06-25 03:59:04 -07:00
 categories:
 - Cryptocurrency
 tags:

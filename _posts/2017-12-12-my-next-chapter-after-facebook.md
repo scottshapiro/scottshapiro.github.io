@@ -1,6 +1,6 @@
 ---
 title: My Next Chapter After Facebook
-date: 2017-12-12 06:51:35 Z
+date: 2017-12-11 22:51:35 -08:00
 categories:
 - Career
 tags:

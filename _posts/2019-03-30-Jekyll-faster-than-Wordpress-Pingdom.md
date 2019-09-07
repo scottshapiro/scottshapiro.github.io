@@ -1,6 +1,6 @@
 ---
 title: Jekyll serves my blog 10x faster than Wordpress
-date: 2019-03-31 00:00:00 Z
+date: 2019-03-30 17:00:00 -07:00
 tags:
 - Development
 layout: post

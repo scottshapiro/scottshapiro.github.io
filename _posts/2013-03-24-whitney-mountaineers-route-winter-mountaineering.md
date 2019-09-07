@@ -1,6 +1,6 @@
 ---
 title: 'Trip Report: Mt. Whitney Mountaineer''s Route March 22-24, 2013'
-date: 2013-03-25 00:00:00 Z
+date: 2013-03-24 17:00:00 -07:00
 tags:
 - Climbing
 layout: post
