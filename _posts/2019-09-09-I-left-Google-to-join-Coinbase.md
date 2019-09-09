@@ -4,6 +4,7 @@ title: I left Google to join Coinbase
 tags:
 - Crypto
 - Career
+featured_image: /images/rocket.png
 ---
 
 Last week, I started a new job at Coinbase in San Francisco. I am leading the core consumer app product team to make cryptocurrency more useful for everyone. 
