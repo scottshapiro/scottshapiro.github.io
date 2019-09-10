@@ -22,11 +22,11 @@ I live in an old house, built in the 1950&#8217;s. But I&#8217;m making it smart
 
 Now that Winter Is Coming, it&#8217;s time to focus on heating: pre-heating the house before we get home from work, and again before we get out of bed in the morning.
 
+<!--more-->
+
 ### But the Nest won&#8217;t work with my furnace
 
 I&#8217;ve had my eye on a Nest Thermostat for a long time. But the one type of heater that doesn&#8217;t work with Nest is the one we have: Millivolt. Unlike the other 99% of people with furnaces in the US, we lack a C-wire since we don&#8217;t have a 24 Volt system.
-
-<!--more-->
 
 <img src="/wp-content/uploads/2017/11/IMG_9982-768x1024.jpg" alt="" width="768" height="1024" />
 

@@ -20,11 +20,9 @@ _Bitcoin hit $3,000 earlier this week. Then it dropped by 30%. In honor of that 
 
 ### I first discovered Bitcoin in February 2013.
 
-On a cold winter morning in Menlo Park, a colleague was talking about blockchain this and crypto that. It didn&#8217;t make any sense. Miners and block rewards? What? But I remembered seeing a couple headlines on YCombinator&#8217;s Hacker News and figured this was something to learn about. So I went on Coinbase, which had just recently launched. I paid $21.65 for 1 bitcoin. Just because. Of course only a few years earlier the price of a bitcoin was infinitesimally small on the order of fractional pennies.
+On a cold winter morning in Menlo Park, a colleague was talking about blockchain this and crypto that. It didn&#8217;t make any sense. Miners and block rewards? What? But I remembered seeing a couple headlines on YCombinator&#8217;s Hacker News and figured this was something to learn about. So I went on Coinbase, which had just recently launched. I paid $21.65 for 1 bitcoin. <!--more-->Just because. Of course only a few years earlier the price of a bitcoin was infinitesimally small on the order of fractional pennies.
 
 <img src="/wp-content/uploads/2017/06/image-6.png" alt="" class="alignnone size-medium wp-image-183"  sizes="(max-width: 904px) 100vw, 904px" />
-
-<!--more-->
 
 I should have bought more, but even one felt like a crazy idea. It was unclear how or why this existed. I hadn&#8217;t thought through how impactful it could be on the future.
 
