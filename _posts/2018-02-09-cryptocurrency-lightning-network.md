@@ -19,11 +19,11 @@ Note that none of this is about price or trading, but rather application and uti
 
 _Below are seven of the adventures I undertook:_
 
-<!--more-->
-
 ### 1. Ava&#8217;s birth announcement on the blockchain
 
 Beyond posting on Facebook and [Instagram](https://www.instagram.com/p/BeL0oVkHd5P), I wanted a way to memorialize Ava&#8217;s birth using cryptocurrency.
+
+<!--more-->
 
 I tried Litecoin and Bitcoin, messing around with different fields. But it was too cumbersome to generate a transaction. So I turned to Ethereum. ETH was the easiest way to leave a message in a blockchain and have it be easily readable. Ava&#8217;s [birth announcement is forever embedded in Ethereum Block 4944064](https://etherscan.io/tx/0xe05c5e25b59aa5f4c818ab0f45af7fa27fc3e2fa2b7b0404f8a353f75401c13e).
 
