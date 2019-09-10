@@ -11,14 +11,7 @@ author: Scott Shapiro
 excerpt: How I had to import and hack Nest UK to work with my ancient furnace heater
   in San Francisco
 layout: post
-guid: http://www.scottshapiro.com/?p=326
-dpsp_networks_shares:
-- a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:67;}
-dpsp_networks_shares_total:
-- '67'
-dpsp_networks_shares_last_updated:
-- '1553829604'
-featured: false
+featured: true
 ---
 
 _I&#8217;m addicted to the smart home, but have struggled for years to find a solution for our heater in San Francisco, USA. Nest wouldn&#8217;t work. Here&#8217;s how I resolved it._
@@ -32,6 +25,8 @@ Now that Winter Is Coming, it&#8217;s time to focus on heating: pre-heating the 
 ### But the Nest won&#8217;t work with my furnace
 
 I&#8217;ve had my eye on a Nest Thermostat for a long time. But the one type of heater that doesn&#8217;t work with Nest is the one we have: Millivolt. Unlike the other 99% of people with furnaces in the US, we lack a C-wire since we don&#8217;t have a 24 Volt system.
+
+<!--more-->
 
 <img src="/wp-content/uploads/2017/11/IMG_9982-768x1024.jpg" alt="" width="768" height="1024" />
 

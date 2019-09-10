@@ -13,21 +13,7 @@ excerpt: Bitcoin hit $3,000 earlier this week. Then it dropped by 30%. In honor 
   that arbitrary high watermark and even higher volatility, I wanted to share the
   first year of my journey into cryptocurrency.
 layout: post
-guid: http://www.scottshapiro.com/?p=182
-dsq_thread_id:
-- '5901900254'
-instant_articles_force_submit:
-- '1'
-instant_articles_submission_id:
-- '1877126249204184'
-dpsp_networks_shares:
-- a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:161;}
-dpsp_networks_shares_total:
-- '161'
-dpsp_networks_shares_last_updated:
-- '1553829604'
-image: "/newblog/wp-content/uploads/2017/06/10680032615_0717257f1d_b.jpg"
-featured: false
+featured: true
 ---
 
 _Bitcoin hit $3,000 earlier this week. Then it dropped by 30%. In honor of that arbitrary high watermark and even higher volatility, I wanted to share the first year of my journey into cryptocurrency._
@@ -37,6 +23,8 @@ _Bitcoin hit $3,000 earlier this week. Then it dropped by 30%. In honor of that 
 On a cold winter morning in Menlo Park, a colleague was talking about blockchain this and crypto that. It didn&#8217;t make any sense. Miners and block rewards? What? But I remembered seeing a couple headlines on YCombinator&#8217;s Hacker News and figured this was something to learn about. So I went on Coinbase, which had just recently launched. I paid $21.65 for 1 bitcoin. Just because. Of course only a few years earlier the price of a bitcoin was infinitesimally small on the order of fractional pennies.
 
 <img src="/wp-content/uploads/2017/06/image-6.png" alt="" class="alignnone size-medium wp-image-183"  sizes="(max-width: 904px) 100vw, 904px" />
+
+<!--more-->
 
 I should have bought more, but even one felt like a crazy idea. It was unclear how or why this existed. I hadn&#8217;t thought through how impactful it could be on the future.
 
