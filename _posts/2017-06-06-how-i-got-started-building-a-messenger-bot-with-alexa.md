@@ -1,6 +1,6 @@
 ---
 title: I started with Alexa
-date: 2017-06-06 02:15:17 Z
+date: 2017-06-05 19:15:17 -07:00
 categories:
 - I'm building a bot
 tags:
@@ -13,7 +13,7 @@ guid: http://www.scottshapiro.com/?p=130
 ampforwp_custom_content_editor:
 - ''
 ampforwp_custom_content_editor_checkbox:
--
+- 
 ampforwp-amp-on-off:
 - default
 instant_articles_force_submit:

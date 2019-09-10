@@ -1,6 +1,6 @@
 ---
 title: I&#8217;m building a bot
-date: 2017-05-27 23:54:09 Z
+date: 2017-05-27 16:54:09 -07:00
 categories:
 - I'm building a bot
 tags:

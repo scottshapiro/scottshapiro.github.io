@@ -1,6 +1,6 @@
 ---
 title: 'Trip Report: Mt. Shasta Ski Mountaineering'
-date: 2016-06-16 00:00:00 Z
+date: 2016-06-15 17:00:00 -07:00
 tags:
 - Climbing
 layout: post

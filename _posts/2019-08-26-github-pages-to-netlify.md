@@ -1,6 +1,6 @@
 ---
 title: 'Jekyll: From Github Pages to Netlify'
-date: 2019-08-26 00:00:00 Z
+date: 2019-08-25 17:00:00 -07:00
 tags:
 - Coding
 layout: post

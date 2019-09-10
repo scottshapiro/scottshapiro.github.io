@@ -1,6 +1,6 @@
 ---
 title: 'My cyptocurrency domain name: scottshapiro.eth'
-date: 2017-07-08 15:41:11 Z
+date: 2017-07-08 08:41:11 -07:00
 categories:
 - Cryptocurrency
 - Ethereum
