@@ -10,7 +10,7 @@ tags:
 id: 380
 author: Scott Shapiro
 layout: post
-featured: false
+featured: true
 ---
 
 I&#8217;ve spent the last three weeks on parental leave. It&#8217;s been awesome getting to know [our daughter Ava](http://www.scottandsue.com/welcome-ava-julia/) better. But in between the hundreds of diaper changes, bottle feeds, and [5 S&#8217;s](https://www.happiestbaby.com/blogs/blog/the-5-s-s-for-soothing-babies), I managed to explore some cryptocurrency projects. Often early in the morning or late at night when mom and baby are sleeping.
