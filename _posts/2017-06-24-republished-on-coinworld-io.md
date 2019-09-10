@@ -1,6 +1,6 @@
 ---
 title: Republished on Coinworld.io
-date: 2017-06-24 08:27:36 Z
+date: 2017-06-24 01:27:36 -07:00
 categories:
 - ICO
 tags:

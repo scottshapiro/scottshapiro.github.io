@@ -1,6 +1,6 @@
 ---
 title: Prism by Shapeshift &#8211; first impressions
-date: 2017-08-18 08:17:27 Z
+date: 2017-08-18 01:17:27 -07:00
 categories:
 - Cryptocurrency
 tags:
