@@ -9,3 +9,4 @@ node_modules
 package.json
 *.swp
 Changelog.md
+/_posts/localStorage.json

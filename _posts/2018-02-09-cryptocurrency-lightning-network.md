@@ -10,7 +10,7 @@ tags:
 id: 380
 author: Scott Shapiro
 layout: post
-featured: false
+featured: true
 ---
 
 I&#8217;ve spent the last three weeks on parental leave. It&#8217;s been awesome getting to know [our daughter Ava](http://www.scottandsue.com/welcome-ava-julia/) better. But in between the hundreds of diaper changes, bottle feeds, and [5 S&#8217;s](https://www.happiestbaby.com/blogs/blog/the-5-s-s-for-soothing-babies), I managed to explore some cryptocurrency projects. Often early in the morning or late at night when mom and baby are sleeping.
@@ -22,6 +22,8 @@ _Below are seven of the adventures I undertook:_
 ### 1. Ava&#8217;s birth announcement on the blockchain
 
 Beyond posting on Facebook and [Instagram](https://www.instagram.com/p/BeL0oVkHd5P), I wanted a way to memorialize Ava&#8217;s birth using cryptocurrency.
+
+<!--more-->
 
 I tried Litecoin and Bitcoin, messing around with different fields. But it was too cumbersome to generate a transaction. So I turned to Ethereum. ETH was the easiest way to leave a message in a blockchain and have it be easily readable. Ava&#8217;s [birth announcement is forever embedded in Ethereum Block 4944064](https://etherscan.io/tx/0xe05c5e25b59aa5f4c818ab0f45af7fa27fc3e2fa2b7b0404f8a353f75401c13e).
 

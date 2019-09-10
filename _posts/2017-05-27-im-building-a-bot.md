@@ -9,23 +9,7 @@ tags:
 id: 67
 author: Scott Shapiro
 layout: post
-guid: http://www.scottshapiro.com/newblog/?p=67
-dsq_thread_id:
-- '5858354333'
-ampforwp_custom_content_editor:
-- ''
-ampforwp_custom_content_editor_checkbox:
-- 
-ampforwp-amp-on-off:
-- default
-instant_articles_submission_id:
-- '1922789687993566'
-dpsp_networks_shares:
-- a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:164;}
-dpsp_networks_shares_total:
-- '164'
-dpsp_networks_shares_last_updated:
-- '1553829605'
+featured: true
 ---
 
 _I recently started building a Messenger Bot. This is a series describing how I approached it and what I learned._
@@ -35,6 +19,8 @@ _I recently started building a Messenger Bot. This is a series describing how I 
 I had a specific problem to solve: was my rooftop solar power system working?
 
 Wait, what does a [bot](http://www.webopedia.com/TERM/C/chat_bot.html) have to do with power production? That sounds like a ridiculous question today. 10 years from now it won&#8217;t. Bots are going to be the future of how we interact with products and services.
+
+<!--more-->
 
 In addition to solving a real problem, I chose to go down this path for several reasons:  
 1. I wanted to understand this trend around bots: how you build them, what you could have them do  
