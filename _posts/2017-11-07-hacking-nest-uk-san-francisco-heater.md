@@ -11,14 +11,7 @@ author: Scott Shapiro
 excerpt: How I had to import and hack Nest UK to work with my ancient furnace heater
   in San Francisco
 layout: post
-guid: http://www.scottshapiro.com/?p=326
-dpsp_networks_shares:
-- a:2:{s:9:"pinterest";i:0;s:8:"facebook";i:67;}
-dpsp_networks_shares_total:
-- '67'
-dpsp_networks_shares_last_updated:
-- '1553829604'
-featured: false
+featured: true
 ---
 
 _I&#8217;m addicted to the smart home, but have struggled for years to find a solution for our heater in San Francisco, USA. Nest wouldn&#8217;t work. Here&#8217;s how I resolved it._
@@ -28,6 +21,8 @@ _I&#8217;m addicted to the smart home, but have struggled for years to find a so
 I live in an old house, built in the 1950&#8217;s. But I&#8217;m making it smart. The first step was Alexa, with TP-Link smart bulbs and Sonos. Then I [integrated my rooftop solar system with Messenger]({{ site.baseurl }}{% post_url 2017-05-27-im-building-a-bot %}).
 
 Now that Winter Is Coming, it&#8217;s time to focus on heating: pre-heating the house before we get home from work, and again before we get out of bed in the morning.
+
+<!--more-->
 
 ### But the Nest won&#8217;t work with my furnace
 
