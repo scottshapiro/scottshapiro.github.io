@@ -1,10 +1,11 @@
 ---
-layout: post
 title: I left Google to join Coinbase
+date: 2019-09-09 00:00:00 -07:00
 tags:
 - Crypto
 - Career
-featured_image: /images/rocket.png
+layout: post
+featured_image: "/images/rocket.png"
 featured: true
 ---
 
