@@ -13,9 +13,10 @@ description: Scott Shapiro's personal blog
 meta_description: Scott Shapiro's personal blog
 logo: assets/images/logo.png
 favicon: assets/images/favicon.ico
-baseurl: 
+baseurl:
+url: https://scottshapiro.com
 production_url: https://www.scottshapiro.com/
-disqus: 
+disqus:
 mailchimp_url: "//scottshapiro.us16.list-manage.com/subscribe/post?u=5c7e9216b6ff26ac8fbd9c161&amp;id=b2ceab4033"
 cover_image: bg5.jpg
 ga_analytics: UA-92823-1
@@ -38,13 +39,13 @@ thankyou_page_description: Your message has been successfully sent. We will cont
 twitter: scottshapiro
 facebook: scott.shapiro
 github: scottshapiro
-codepen: 
-dribbble: 
-medium: 
+codepen:
+dribbble:
+medium:
 instagram: scott.shapiro
-pinterest: 
+pinterest:
 linkedin: scottashapiro
-producthunt: 
+producthunt:
 navigation:
 - text: About
   url: "/about"
