@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "39d2be8073190d8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b6dbb16d8ddb802",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2019-09-09-I-left-Google-to-join-Coinbase.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a37664c4956f2fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e2a3b2224694336",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ed66ddbb689874a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "506be90658da6c8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f05c25462b4ee9dd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55ea480027e16dcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "138b2b08b00c5055",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50328905d3ef990f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2019-09-09-I-left-Google-to-join-Coinbase.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a1f7dfa0666b1da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2019-09-09-I-left-Google-to-join-Coinbase.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0fadc5fbed581f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d916d11b490047bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2019-09-09-I-left-Google-to-join-Coinbase.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2b6dbb16d8ddb802",
+  "lastOpenFiles": [
+    "_posts/2022-09-09-3-years-at-coinbase.md",
+    "_posts/2016-06-15-mt-shasta-ski-mountaineering.md"
+  ]
+}
