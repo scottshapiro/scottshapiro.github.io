@@ -9,10 +9,18 @@ featured_image:
 featured: true
 ---
 
-_I was recently on the Crypto News Podcast_
+_I was recently on the Crypto News Podcast with Matt Zahab, covering all things big tech, crypto, Coinbase, and more. Check it out!_
 
 <!--more-->
 
-We talked about my journey to crypto after several years working in big tech, and some of what's next at Coinbase. Huge thanks to Matt for having me on. 
+Some of the topics we covered:
+- Current trends in advanced crypto trading
+- Coinbase Advanced Trade
+- Options trading in crypto
+- Most desired trading features
+- Stories from working at FB and Google
+- Discovering BTC in 2013
+
+[Choose your podcast player](https://www.buzzsprout.com/1735660/12366374-210-scott-shapiro-senior-director-at-coinbase-on-trading-platforms-current-crypto-market-and-coinbase)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1UKSc73qQdVuROQC2mYEdJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
