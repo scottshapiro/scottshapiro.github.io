@@ -4,6 +4,8 @@ layout: page
 featured_image: "/assets/images/pages/about.jpg"
 ---
 
+_This photo was taken at 6119m on top of Lobuche East, Nepal Himalaya, October 2016_
+
 #### Bio
 Product Manager. Cryptocurrency denarian. Skier. Mountain Biker. Dad. Paleo eater. 
 
