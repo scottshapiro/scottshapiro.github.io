@@ -9,7 +9,7 @@ featured_image:
 featured: true
 ---
 
-_I was recently joined Matt Zahab on the Crypto News Podcast. We covered all things big tech, crypto, Coinbase, and more. Check it out!_
+_I recently joined Matt Zahab on the Crypto News Podcast. We covered all things big tech, crypto, Coinbase, and more. Check it out!_
 
 <!--more-->
 
