@@ -1,6 +1,6 @@
 ---
 title: Crypto News Podcast
-date: 2023-03-08 00:00:00 -07:00
+date: 2023-03-06 00:00:00 -07:00
 tags:
 - Crypto
 - Career
