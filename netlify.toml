@@ -1,6 +1,15 @@
 [build]
-  command = "bundle exec jekyll build"
+  command = "jekyll build"
   publish = "_site"
 
 [build.environment]
-  RUBY_VERSION = "2.7.10"
+  RUBY_VERSION = "2.7.2"
+
+[context.production]
+  command = "jekyll build"
+
+[context.deploy-preview]
+  command = "jekyll build --future"
+
+[context.branch-deploy]
+  command = "jekyll build"
