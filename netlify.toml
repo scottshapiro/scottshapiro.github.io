@@ -7,6 +7,11 @@
   # Enable caching for faster builds
   BUNDLE_PATH = "/opt/build/cache/bundle"
 
+[[redirects]]
+  from = "/api/auth"
+  to = "/.netlify/functions/auth"
+  status = 200
+
 [context.production]
   command = "bundle install && bundle exec jekyll build"
 
