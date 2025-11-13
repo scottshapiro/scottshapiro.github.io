@@ -1,8 +1,11 @@
 # config.yml
 
 backend:
-  name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  name: github
+  repo: scottshapiro/scottshapiro.github.io
+  branch: master
+  base_url: https://scottshapiro.com
+  auth_type: pkce
 media_folder: 'assets/uploads'
 
 collections:
