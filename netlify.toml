@@ -1,5 +1,6 @@
 [build]
-  command = "bundle install && bundle exec jekyll build"
+  # Build is handled by GitHub Actions - this is a no-op
+  command = "echo 'Build handled by GitHub Actions'"
   publish = "_site"
 
 # Let Netlify use its default pre-installed Ruby version
