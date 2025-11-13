@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
-ruby "~> 3.0.0"
+# Use Netlify's default Ruby version (flexible constraint for compatibility)
+ruby ">= 2.7.0"
 
 gem "jekyll", "~> 3.9"
 gem "jekyll-sitemap"

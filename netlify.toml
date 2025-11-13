@@ -2,8 +2,9 @@
   command = "bundle install && bundle exec jekyll build"
   publish = "_site"
 
-[build.environment]
-  RUBY_VERSION = "3.0.6"
+# Let Netlify use its default pre-installed Ruby version
+# [build.environment]
+#   RUBY_VERSION = "3.0.6"
 
 [context.production]
   command = "bundle install && bundle exec jekyll build"
