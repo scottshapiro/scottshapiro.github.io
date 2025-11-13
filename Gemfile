@@ -10,7 +10,8 @@ gem "jekyll-paginate"
 gem "jekyll-tagsgenerator"
 gem "kramdown-parser-gfm"
 
-# ffi will use latest compatible version with Ruby 3.0+
+# Pin ffi to version compatible with Ruby 2.7.2's rubygems 3.1.4
+gem "ffi", "~> 1.15.0"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
