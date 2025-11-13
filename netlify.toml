@@ -4,6 +4,8 @@
 
 [build.environment]
   RUBY_VERSION = "2.7.2"
+  # Enable caching for faster builds
+  BUNDLE_PATH = "/opt/build/cache/bundle"
 
 [context.production]
   command = "bundle install && bundle exec jekyll build"
