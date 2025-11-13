@@ -6,6 +6,8 @@ gem "jekyll", "~> 3.9"
 gem "jekyll-sitemap"
 gem "jekyll-feed"
 gem "jekyll-seo-tag"
+gem "jekyll-paginate"
+gem "jekyll-tagsgenerator"
 gem "kramdown-parser-gfm"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

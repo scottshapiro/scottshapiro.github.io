@@ -47,7 +47,7 @@ producthunt:
 navigation:
 - text: About
   url: "/about"
-plugins_dir:
+plugins:
 - jekyll-paginate
 - jekyll-tagsgenerator
 - jekyll-seo-tag
