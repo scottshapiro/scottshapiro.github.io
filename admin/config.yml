@@ -5,9 +5,6 @@ backend:
   repo: scottshapiro/scottshapiro.github.io
   branch: master
   base_url: https://scottshapiro.com
-  auth_type: pkce
-  client_id: Ov23liO3UDaEIBmLhm4p
-  auth_endpoint: /auth
 media_folder: 'assets/uploads'
 
 collections:
