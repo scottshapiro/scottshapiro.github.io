@@ -5,8 +5,7 @@ backend:
   repo: scottshapiro/scottshapiro.github.io
   branch: master
   base_url: https://scottshapiro.com
-  # Add your GitHub OAuth Client ID here (get it from GitHub OAuth app settings)
-  client_id: Ov23liO3UDaEIBmLhm4p
+  auth_endpoint: /auth
 media_folder: 'assets/uploads'
 
 collections:
