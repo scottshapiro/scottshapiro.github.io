@@ -25,7 +25,7 @@ Your post content goes here in Markdown.
 
 6. Write your post in Markdown
 7. Click "Commit directly to the master branch"
-8. Netlify will automatically rebuild and deploy your site
+8. Netlify/Cloudflare Pages will automatically rebuild and deploy your site
 
 ## Option 2: Local Development
 
@@ -34,8 +34,9 @@ Your post content goes here in Markdown.
 3. Run `bundle exec jekyll serve` to preview locally
 4. Commit and push when ready
 
-## Option 3: Netlify CMS (When Working)
+## Mobile Options
 
-Visit: https://scottshapiro.com/admin/
-(Currently having authentication issues - use Option 1 for now)
+- **GitHub Mobile App** (iOS/Android) - Edit files directly on your phone
+- **Working Copy** (iOS) - Full Git client with markdown editor
+- **GitHub Web Interface** - Works well on mobile browsers too
 
