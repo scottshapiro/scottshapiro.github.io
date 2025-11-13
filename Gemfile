@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "~> 2.7.0"
+ruby "~> 3.1.0"
 
 gem "jekyll", "~> 3.9"
 gem "jekyll-sitemap"
@@ -10,8 +10,7 @@ gem "jekyll-paginate"
 gem "jekyll-tagsgenerator"
 gem "kramdown-parser-gfm"
 
-# Pin ffi to version compatible with older rubygems
-gem "ffi", "~> 1.15.0"
+# ffi will use latest compatible version with Ruby 3.1+
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
