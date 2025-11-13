@@ -21,10 +21,21 @@
 4. **Environment Variables** (if needed)
    - Add `RUBY_VERSION = 2.7.2` if Cloudflare doesn't auto-detect
 
-5. **Custom Domain**
-   - After first deploy, go to "Custom domains"
-   - Add `scottshapiro.com` and `www.scottshapiro.com`
-   - Update DNS records as instructed
+5. **Custom Domain** (IMPORTANT - Do this now!)
+   - In Cloudflare Pages dashboard, go to your project
+   - Click "Custom domains" tab
+   - Click "Set up a custom domain"
+   - Add `scottshapiro.com` 
+   - Add `www.scottshapiro.com` (optional but recommended)
+   - Cloudflare will show you DNS records to add
+
+6. **Update DNS Records**
+   - Go to your domain registrar (where you bought scottshapiro.com)
+   - OR if DNS is managed by Cloudflare, go to Cloudflare DNS settings
+   - Update/add these records:
+     - **CNAME**: `scottshapiro.com` → `scottshapiro-github-io.pages.dev`
+     - **CNAME**: `www` → `scottshapiro-github-io.pages.dev` (if using www)
+   - Wait for DNS propagation (usually 5-15 minutes)
 
 ## Build Configuration File (Optional)
 
