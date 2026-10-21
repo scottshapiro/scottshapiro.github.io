@@ -1,8 +1,13 @@
-<nav class="pagination inner" role="pagination">
+{% assign paginator = page.tag_paginator %}
+<nav class="pagination inner" aria-label="Tag pagination">
     <div class="nav-links">
         {% if paginator.previous_page %}
         {% if paginator.previous_page == 1 %}
         <a class="newer-posts" href="{{ site.baseurl }}/tag/{{ page.tag | downcase | replace: ' ', '-' }}" title="Previous Page">
+            <span class="icon-arrow-left" aria-hidden="true"></span><span class="screen-reader-text">Newer Posts</span>
+        </a>
+        {% else %}
+        <a class="newer-posts" href="{{ site.baseurl }}/tag/{{ page.tag | downcase | replace: ' ', '-' }}/page{{ paginator.previous_page }}/" title="Previous Page">
             <span class="icon-arrow-left" aria-hidden="true"></span><span class="screen-reader-text">Newer Posts</span>
         </a>
         {% endif %}

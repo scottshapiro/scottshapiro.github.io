@@ -1,0 +1,55 @@
+name: Site build and security checks
+on:
+  pull_request:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  site:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    env:
+      JEKYLL_ENV: production
+      BUNDLE_FROZEN: "true"
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: ruby/setup-ruby@824c0e29fdfc7d689c191c27acc969d2d04b7dd8 # v1
+        with:
+          ruby-version: "3.4.11"
+          bundler-cache: true
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: "22"
+          cache: npm
+      - run: bundle exec jekyll build --trace
+      - run: python3 scripts/check_site.py
+      - run: npm ci --ignore-scripts
+      - run: npx playwright install --with-deps chromium
+      - run: npm test
+
+  deploy:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    needs: site
+    runs-on: ubuntu-24.04
+    timeout-minutes: 2
+    steps:
+      - name: Trigger Cloudflare Pages production build
+        env:
+          CLOUDFLARE_PAGES_DEPLOY_HOOK: ${{ secrets.CLOUDFLARE_PAGES_DEPLOY_HOOK }}
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request
+          url = os.environ['CLOUDFLARE_PAGES_DEPLOY_HOOK']
+          if not url.startswith('https://api.cloudflare.com/'):
+              raise SystemExit('Cloudflare deployment hook is missing or invalid')
+          request = urllib.request.Request(url, data=b'', method='POST')
+          with urllib.request.urlopen(request, timeout=40) as response:
+              data = json.load(response)
+          if not data.get('success'):
+              raise SystemExit('Cloudflare did not accept the deployment trigger')
+          print('Cloudflare accepted the production deployment trigger.')
+          PY

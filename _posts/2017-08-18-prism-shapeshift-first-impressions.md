@@ -37,7 +37,7 @@ An awesome feature would be some sort of details on the properties of each coin 
 
 Fees are high, at 2.5% + 0.05 ETH (edit: not 5%) for simply constructing a portfolio. In my case, that&#8217;s effectively $15 US for every $300 invested (as of August 16). Or 0.05 ETH for the 1 ETH I invested (edited for accuracy).
 
-<img src="/newblog/wp-content/uploads/2017/08/Screen-Shot-2017-08-17-at-6.36.56-AM-1024x580.png" alt="" width="1024" height="580"  />
+<img src="/wp-content/uploads/2017/08/Screen-Shot-2017-08-17-at-6.36.56-AM-1024x580.png" alt="" width="1024" height="580"  />
 
 ## Funding a Prism
 
