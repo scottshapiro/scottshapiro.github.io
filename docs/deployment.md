@@ -6,6 +6,12 @@ the authenticated account before changing GitHub Pages or DNS. The repository's
 historical project guide names `scottshapiro-github-io`; a reachable pages.dev
 hostname alone does not prove the current production configuration.
 
+The `deploy` GitHub Actions job triggers Cloudflare only after the `site` checks
+pass on a push to `master`. Its branch-scoped deploy-hook URL is stored solely as
+the GitHub Actions secret `CLOUDFLARE_PAGES_DEPLOY_HOOK`. Do not print or commit it.
+Production build completion is verified through the Cloudflare deployment API;
+a successful hook request alone is not a completed deployment.
+
 ## Build
 
 - Ruby: `3.4.11`, as pinned by `.ruby-version` and `Gemfile`.
