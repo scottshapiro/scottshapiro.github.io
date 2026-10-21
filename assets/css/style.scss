@@ -23,12 +23,10 @@
  * 9. Media Queries
 */
 
-@import
-"variables",
-"icons",
-"reset",
-"general"
-;
+@use "variables" as *;
+@use "icons";
+@use "reset";
+@use "general";
 
 /**
  * 3. Structure

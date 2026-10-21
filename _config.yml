@@ -15,11 +15,11 @@ logo: assets/images/logo.png
 favicon: assets/images/favicon.ico
 baseurl: 
 url: https://scottshapiro.com
-production_url: https://www.scottshapiro.com/
+production_url: https://scottshapiro.com/
 disqus: 
 mailchimp_url: "//scottshapiro.us16.list-manage.com/subscribe/post?u=5c7e9216b6ff26ac8fbd9c161&amp;id=b2ceab4033"
-cover_image: bg5.jpg
-ga_analytics: UA-92823-1
+cover_image: bg5.JPG
+ga_analytics: G-RS9EXPE2CJ
 author:
   name: Scott Shapiro
   image: authorimage.jpg
@@ -28,10 +28,6 @@ author:
     I love pushing myself out of my comfort zone, whether technical or physical. This
     blog serves as a partial record of those attempts.
   bio: I lead a consumer product team at Coinbase. And when I'm not doing that I'm skiing, mountain biking, or wrangling my children. 
-email: youremail@email.com
-contact_page_description: Horace theme comes with a contact form built-in. You can
-  use this form with Formspree service and get up to 50 submissions for free. Also,
-  you can easily switch to another service if you want.
 thankyou_page_description: Your message has been successfully sent. We will contact
   you very soon!
 twitter: scottshapiro
@@ -49,7 +45,6 @@ navigation:
   url: "/about"
 plugins:
 - jekyll-paginate
-- jekyll-tagsgenerator
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
@@ -60,3 +55,21 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
+include:
+- _headers
+- _redirects
+exclude:
+- README.md
+- HOW_TO_WRITE_POSTS.md
+- cloudflare-pages-setup.md
+- SECURITY.md
+- docs
+- scripts
+- vendor
+- package.json
+- package-lock.json
+- playwright.config.js
+- tests
+- test-results
+- playwright-report
+- node_modules

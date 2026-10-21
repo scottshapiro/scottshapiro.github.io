@@ -1,3 +1,8 @@
-Source for www.scottshapiro.com, a personal blog.
+Source for https://scottshapiro.com, Scott Shapiro's personal blog.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c420b719-bd2b-4f6d-a36b-a4d168551a75/deploy-status)](https://app.netlify.com/sites/elegant-kepler-df4b69/deploys)
+Build with Ruby 3.4.11 and the committed Bundler lockfile. GitHub holds the source;
+Cloudflare Pages is the production deployment target.
+
+See [deployment and rollback](docs/deployment.md) for build commands, preview
+validation, domain configuration, security headers, and history cleanup.
+See [security maintenance](SECURITY.md) for remaining account reviews.
