@@ -12,3 +12,6 @@ package.json
 *.swp
 Changelog.md
 /_posts/localStorage.json
+/wp-content/**/*.php
+/wp-content/**/*.log
+/wp-content/**/.htaccess
