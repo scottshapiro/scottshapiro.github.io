@@ -1,0 +1,6 @@
+{
+  "name": "scottshapiro-blog-checks",
+  "private": true,
+  "scripts": { "test": "playwright test" },
+  "devDependencies": { "@playwright/test": "1.64.1" }
+}

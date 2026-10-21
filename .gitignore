@@ -5,13 +5,18 @@ _site
 .jekyll-metadata
 .bundle
 .sass-cache
-# Gemfile.lock - commented out for Netlify consistency
-# Gemfile.lock
-node_modules
-package.json
-*.swp
-Changelog.md
-/_posts/localStorage.json
+vendor/bundle/
+/.tools/
+/.wrangler/
+.env
+.env.*
+!.env.example
 /wp-content/**/*.php
 /wp-content/**/*.log
 /wp-content/**/.htaccess
+node_modules
+*.swp
+Changelog.md
+/_posts/localStorage.json
+/test-results/
+/playwright-report/
